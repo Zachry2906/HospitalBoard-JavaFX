@@ -1,0 +1,1176 @@
+[Alif Fikri] 13:25:50
+banyak dan sehari hari memang sebagai aku sebagai misalnya data analis itu memang lebih banyak justru di kiri.
+
+[Alif Fikri] 13:25:57
+Ini penting banget nih sebagai kalian misalnya mau memulai karir di data analitik kayak gitu. Sedangkan di yang kanan itu mungkin tujuan akhir kalian tujuan jangka panjang kayak gitu.
+
+[Alif Fikri] 13:26:10
+Pengen belajar ini jadi sembari Memulai fokus di sana. Terus karirnya udah mulai udah mulai nih sebagai kardter analis tahun kayak gitu.
+
+[Alif Fikri] 13:26:18
+Kalian pengen kesana boleh kayak gitu. Tapi kalian harus tahu pembelajarannya seperti apa ininya kaya gimana dan lain lain itu mungkin salah satu hal yang bisa kalian capai kayak gitu.
+
+[Alif Fikri] 13:26:29
+Tapi bukan jadi fokus utama kayak gitu. Karena kalau ini jadi fokus utama takutnya nanti terlalu susah atau terlalu sulit nanti kalian jadinya apa antar dulu deh.
+
+[Alif Fikri] 13:26:39
+Kayak gitu, atau bahkan sebenarnya itu belum tentu dicari? Karena apa karena yang kanan ini sangat sedikit sekali dicari dan sangat sedikit saling sekali di banyak penggunaannya di dunia bisnis atau dunia industri kayak gitulah karena karena memang ini sangat sulit dan sangat belum tentu dibutuhkan karena butuh effort yang lebih banyak jettip ngapain kita bikin cat gpt sendiri kalau misalnya kita bisa bayar caj piki dengan
+
+[Alif Fikri] 13:27:09
+harga lebih murah dengan effort lebih cepat kayak gitu. Kadang ada beberapa bisnis yang melakukan hal itu. Tapi ketika kalian sudah sampai sana itu kalian berarti orang yang sangat jago yang sangat skillfull sehingga ketika ada orang yang mau menghayair kalian itu kalian sangat dicari cari nih kayak gini karena memang skill itu sangat apa sangat inilah sangat sulit sehingga value kalian ketika memiliki skill tersebut itu sangat besar kayak
+
+[Naufal Rafid] 13:27:27
+Terima kasih.
+
+[Naufal Rafid] 13:27:33
+Kita. Gelagar pertama.
+
+[Alif Fikri] 13:27:37
+gitu. Tapi balik lagi yang kiri ini juga sama. Sebenarnya ini justru lebih banyak dibutuhkan dan ketika banyak perusahaan membutuhkan bisa akhirnya lebih banyak peluang peluang kalian untuk masuk ke dalam dunia tersebut.
+
+[Alif Fikri] 13:27:52
+Kayak gitu karena kalau berisik kan aku pengalaman mungkin selama beberapa tahun juga mengajar dan sharing sharing ini kadang kita lupa belajarnya itu apa kita ingin kita belajar yang bagian kanan ini tapi sebenarnya yang paling penting itu dan yang paling banyak pembukanya yang paling banyak membuka peluang kalian untuk masuk data science itu justru yang kiri kayak gitu, karena skill yang dibutuhkan lebih sedikit dan lebih banyak
+
+[Alif Fikri] 13:28:23
+orang yang butuhkan membuat dashboard mencari pattern lihat analisis itu mungkin hampir semua industri membutuhkan itu kayak gitu sedangkan bikin rekomendasi belum tentu kayak gitu.
+
+[Alif Fikri] 13:28:36
+Contohnya kalau misalnya disini industri industri kaya misalnya.
+
+[Alif Fikri] 13:28:40
+Hai kalian kerja di industri manufaktur kayak gitu. Yang yang pasti dilihatkan adalah berapa berapa produksi kita penjualan kita berapa waktu yang ditempuh misalnya untuk membuat produksi gimana itu semua informasinya dibutuhkan manufaktur membuat rekomendasi, belum tentu apakah misalnya, semua pabrik otomotif membutuhkan recommendation sistem belum tentu mungkin nanti akan butuh apa sangat sangat jarang
+
+[Dea Reigina] 13:28:41
+Saya pikir.
+
+[Alif Fikri] 13:29:14
+dilakukan begitu justru yang kiri yang lebih penting seperti itu oke, tapi dan kenapa memang harus dilakukan hal hal ini karena apa karena data driver decision atau adik keputusan berdasarkan data itu akan meningkatkan quality dari decision tersebut kayak gitu jadi informasi tadi tuh misalnya dashboard visualisasi mencari pattern membuat rules membuat analisis mencari dari data itu
+
+[Alif Fikri] 13:29:42
+fungsinya apa untuk mengambil keputusan? Apakah kita perlu melakukan hal ini atau tidak. Contohnya kalau sel saya turun kita tahu dibandingkan tahun lalu kita tahu apakah turun karena memang kita kita sedang kurang marketingnya itu kita bisa cari tahu terus apa produksinya misalnya mampet di beberapa hari itu kita tahu segala macam kalau kayak gitu kita bisa ngambil keputusan yang baik dibandingkan kita berdasarkan misalnya lebih baik kayak gini deh, lebih baik kayak gini
+
+[Alif Fikri] 13:30:10
+deh tanpa tahu datanya seperti apa nanti jadinya salah contohnya misalnya untuk mengambil keputusan di pemerintahan. Kalau misalnya kalian tahu misalnya kayak kasus misalnya Krl kemarin lah kan kan katanya ada mau subsidi berdasarkan misalnya nik kayak gitu jadi mau diubah subsidi segala macam tapi kalau kalian berdasarkan taunya cuman berdasarkan informasi apa intuisi saja mungkin udahlah dinaikin aja lima ribu karena yang naik ternyata orang
+
+[Alif Fikri] 13:30:44
+orang kaya segala macam kayak gitu. Gitu. Tapi ternyata kenyataannya kayak gitu. Ga kaya gitu.
+
+[Alif Fikri] 13:30:54
+Mungkin delapan puluh persen yang naik itu adalah pekerja dengan gaji di bawah. Sepuluh juta seperti itu yang naik dari sepuluh juta itu dikit banget dua puluh persen udah kalau kayak gitu, mungkin nggak usah ini kita naikinnya berdasarkan data kayak gimana dan lain lain itu keputusannya berdasarkan data kayak gitu.
+
+[Alif Fikri] 13:31:07
+Nggak cuma tentang bisnis bisa jadi tentang kehidupan. Contohnya mengambil keputusan untuk pemerintahan terus untuk bisnis kalian yang kecil contohnya kalau misalnya jualan di Shopee atau Tokopedia, kadang suka ada informasi naik turun segala macam itu dari data juga terus kalau misalnya kalian pernah main kayak investasi itu kalian juga harus ngerti cara baca datanya untuk akhirnya ngambil keputusan baiknya investasi di sini nih.
+
+[Alif Fikri] 13:31:38
+Itu kan berdasarkan data atau berdasarkan pembelajaran supaya disisi itu lebih baik.
+
+[Aĺlen] 13:31:41
+Untuk membuat.
+
+[Alif Fikri] 13:31:45
+Contohnya kayak gini kayak tadi mana desain lebih bagus A atau B kelihatannya nggak beda jauh nih. A, sama B, oke Aaaaa.
+
+[Aĺlen] 13:31:48
+Dan.
+
+[Alif Fikri] 13:31:54
+Mungkin lebih hiddennya lebih sedikit. Terus kalau yang B, itu Oh, apa jelas dimana lokasinya Toronto terus host apa ntar dapat dua ribu dua ratus kanada dolar Amat.
+
+[Alif Fikri] 13:32:11
+Kalau misalnya kalian mau bikin kalian mau nge host tempat kayak gitu, tapi mana nih ketika kita ubah desainnya nah mungkin dari tim desain ini ngerti nih yang mana yang pas kayaknya yang paling ambe nih desain yang baru ini adalah desain yang paling bagus yang lebih intuitif kita tahu populer atau enggak kalau misal berdasarkan tuisi doang kita bisa jadi salah om yang benny
+
+[Alif Fikri] 13:32:35
+kita implementasikan ternyata malah bikin turun transaksinya segala macam kayak gitu. Itu balik lagi data science itu fungsinya adalah untuk menganalisis dan membuktikan apakah desainnya lebih bagus atau tidak dan akhirnya ini kita lihat bahwa kalau misalnya lima puluh persen user dapat desain A lima puluh persen user lain dapat desain B, kita lihat bahwa untuk semua browser nggak ada perbedaan
+
+[Alif Fikri] 13:33:02
+jauh nih dari jumlah klik atau jumlah transaksi kalau kayak gitu ngapain kita ubah nah ini perhatikan kalau misalnya kita ubah ke B, itu bisa jadi nanti salah waduh kalau salah ada efek perubahannya malah buat effort makin sulit segala macam bisa jadi malah turun sedikit kayak gitu tapi kalau kita analisis datanya ternyata kalau memang di semua browser tuh secara overall nggak berubah
+
+[Alif Fikri] 13:33:25
+tapi kalau untuk spesifik brosur kayak Chrome sama Firefox kita bisa ubah nih ke desain.
+
+[Alif Fikri] 13:33:30
+B sedangkan untuk yang internet Explorer, kita nggak usah ubah. Nah ini kan berarti ada informasi penting yang kayak gitu.
+
+[Alif Fikri] 13:33:39
+Kalau misal daripada kita ubah semuanya langsung kita ubah sedikit sedikit aja. Kalau misalnya user visit dari Chrome sama Firefox kita ubah ke desain B.
+
+[Alif Fikri] 13:33:47
+Sedangkan yang ini di sana sesimpel kayak gitu aja tuh penting karena apa berarti kita informasi atau keputusannya itu berdasarkan data dua persen transaksi misal kalau transaksinya satu juta dapat berapa dua ribu user itu sangat dua ribu transaksi itu lumayan banyak dan lumayan signifikan seperti itu hai oke, itu contohnya aplikasi dan kebutuhannya data science dalam prosesnya ini salah satu contoh doang seperti itu oke,
+
+[Aĺlen] 13:34:19
+Mill.
+
+[Alif Fikri] 13:34:21
+jadi mungkin bagian terakhir dari implementasinya adalah ini quotes dari bukan Cost sebuah statement dari realenue Man Data Sciencex of Interpretation with Translate the Customer Voice Into a Language More Swittable for Decision making jadi di data Science itu interpretasi dari informasi jadi jadi
+
+[Aĺlen] 13:34:26
+Mhm.
+
+[Aĺlen] 13:34:32
+Untuk jep.
+
+[Alif Fikri] 13:34:44
+kita mentranslasikan suara suara customer yang kita bisa ambil keputusannya kayak gitu. Kalau dulu mungkin kalau di Rbnb ini adalah di ide Rbnb because listening to guess core currency jadi ini penting nih apa mendengarkan jadi kita tanya dulu misalnya customer service tapi itu kan nanti kita harus tanya ke jutaan orang kalau misalnya ternyata penggunanya kita banyak banget kayak gitu memang dari
+
+[Alif Fikri] 13:35:19
+dulu Rbnb ini adalah kalau kita lihat since The Early Days with Community Members to Understand How to make or product better shut switch with darned we still do this but the scale of the community is no beyond the point where it's visible to connect with
+
+[Alif Fikri] 13:35:35
+everyone everywhere. Jadi mungkin dulu kita nanya nanya satu komunitas satu satu tapi sekarang karena datanya banyak itu kita langsung bisa konek ke setiap orang langsung dimanapun kita tidak perlu datang ke sana kita tahu nih kok kita bisa tahu kita bisa nanya lewat aplikasi kita bisa survei lewat aplikasi kita bisa tahu aplikasi dia ngapain aja dari situ kita tahu nih.
+
+[Alif Fikri] 13:35:58
+Keinginan customer tuh seperti apa desain customer yang cocok tuh seperti apa dari hasil voting dan hasil survei dari uhh aplikasinya kayak gitu.
+
+[Alif Fikri] 13:36:10
+Jadi sekarang kalau dia bilang data hashbc comment nilai you statistik underscore experience Identtify Trans across the Community endostrends in from decisions about where to drive the business jadi untuk menginform decision atau keputusannya dari tren trend yang kita punya menggunakan data seperti
+
+[Alif Fikri] 13:36:33
+itu.
+
+[Alif Fikri] 13:36:36
+Mungkin itu sekian dari data Science dan aplikasinya kita lanjut ke rollsnya jadi apa sih yang dilakukan data saya dan Rolls Royce itu apa aja karena data science itu enggak cuman data science atau data analitik tapi ada banyak rolls royce yang akhirnya saling bersinergi untuk membantu kayak gitu oke oke jadi misalnya kita punya data nih di sebelah kiri data intraksi
+
+[Alif Fikri] 13:37:03
+dari aplikasi data Google Adsense transaksi oke rolls yang pertama adalah data data tersebut itu kan scatter dari mana mana belum tentu bersih?
+
+[Alif Fikri] 13:37:11
+Contohnya klik tadi kayak kayak kita bisa lihat user klik ini, user klik ini kita mana tahu informasi dari sana.
+
+[Alif Fikri] 13:37:17
+Tapi untuk supaya lebih rapi. Datanya lebih bersih. Kita bisa konsumsi, kita bisa ini taruh di mana kalau data tuh contohnya kayak kertas dulu enggak tahu masih pakai kertas atau enggak lah untuk nyimpen data dulu misalnya kayak catatan transaksi atau kalau misalnya sempat lihat di warung warung atau beberapa tempat itu kadang mereka masih mencatat transaksinya di dimana di kertas nah, tugasnya data
+
+[Muhammad Rizky Amirullah Hidayat] 13:37:25
+Terima kasih kembali.
+
+[Alif Fikri] 13:37:45
+engineer adalah mentransformasikan kertas tersebut jadi ke digital tentunya tadi kertasnya itu tadi.
+
+[Alif Fikri] 13:37:52
+Catatan transaksi Hari ini kapan berapa jumlahnya itu supaya bisa dibaca sama sama yang lain gitu ya Rollsnya ini penting karena ini sebagai yang paling depan untuk mengatur datanya setelah itu di hai olah segala macem dan skill skill yang dibutuhkan adalah programming database dan sql kalau teman teman lebih suka ngoding kalau teman teman lebih suka data lebih efektif seperti apa misalnya
+
+[Alif Fikri] 13:38:17
+penghematan segala macam terus melakukan transformasi data tanpa perlu mengkomunikasikan banyak hal itu cocok sebagai data engineer nih kayak gitu karena memang ini programming base diminta mikir gimana caranya supaya flownya itu enak data data ini bisa diambil data data ini taruh mana sih itu data engineer karena banyak orang yang pengen jatuh jadi data engineer karena ini penting mungkin salah satu hal
+
+[Alif Fikri] 13:38:42
+yang paling enaknya adalah kita nggak perlu banyak ngobrol sama orang. Kalau misalnya teman teman gak suka ngobrol nih atau gak suka banyak di nggak suka presentasi lah nggak nggak suka nggak suka suka suka ngobrol sama orang kayak nanya nanya segala macam ini kenapa kenapa itu bisa jadi data engineer walaupun tetep perlu lah skill komunikasi skill presentasi kayak gitu tapi mungkin
+
+[Alif Fikri] 13:39:04
+prefer not to itu gak pengen pengen banget kayak gitu. Itu data engineer nah dari sini nanti datanya udah siap akan dipakai sama dua orang yang pertama data analis yang atas netralis yang bawah jadi data analisis sama data science ini bedanya apa secara umum itu yang pertama data analisis dan membuat dashboard contohnya yang dilakukan adalah kenaikan sales delapan persen dikarenakan
+
+[Alif Fikri] 13:39:29
+perubahan desain pada halaman pembayaran Payment page itu data analisisnya sedangkan kalau data scientist itu adalah melakukan prediksi menggunakan data atau membuat otomatisasi otomatis contohnya yang dilakukan adalah menurut data scientist user a ini diprediksi akan membeli barang X karena dia pernah beli barangnya orang orang yang pernah beli barang y sembilan puluh persen beli barang
+
+[Alif Fikri] 13:39:58
+X jadi kita bisa rekomendasikan ke usaha untuk membeli barang x seperti itu itu data scientist sebenarnya masih ada apa namanya overlapping lah antara data analis sama data scientist bahkan di Indonesia itu masih kadang dalam share ke campur data android itu sama tugasnya menganalisis data tapi kalau untuk di luar negeri.
+
+[Alif Fikri] 13:40:24
+Itu udah udah beda nih levelnya data analis itu analisis data data scientist itu melakukan prediksi sesepeda itu.
+
+[Alif Fikri] 13:40:34
+Oke, nah yang dibutuhkan skillnya itu lebih utamanya aku sampaikan empat itu S Sql python communication dan statistik tulusnya untuk menganalisis data skill sama python communication sama statistik untuk mempresentasikan datanya dan menginterpretasikan datanya tahu dari mana ini delapan persen naik itu kan
+
+[Alif Fikri] 13:40:53
+kita telah hitung dari menggunakan statistik. Sedangkan kalau data science ini lebih lebih ini lebih lebih apa lebih rumit.
+
+[Alif Fikri] 13:41:03
+Jadi kayak sql python statistik sama missioner nih. Ini lebih banyak project best programming base dan lain lain untuk deta scientist dan data analisis selanjutnya untuk toolsnya sendiri nah aku di sini mau menjelaskan data analisis karena kita fokusnya itu supaya teman teman bisa start karir di data analisis
+
+[Alif Fikri] 13:41:23
+seperti apa sih tulisannya yang dipakai skillnya yang dipakai seperti apa? Hai, keh karena udah tandai tadi kita udah tahu itu melakukan analisis data aku bisa bagi dua nih hai hard skill sama software yang semuanya itu penting hard skill itu contohnya apa ada empat ql python dashboarding atau visualisation sama
+
+[Alif Fikri] 13:41:42
+statistik sql itu kalau teman teman pernah dengar itu adalah bahasa untuk melakukan ekstraksi data.
+
+[Alif Fikri] 13:41:50
+Jadi melakukan ekstraksi transformasi dan agregasi data dari database yang telah dibuat.
+
+[Alif Fikri] 13:41:55
+Nama data, engineer kayak gitu. Itu penting kita bisa melakukan hal ini dan akhirnya kita harus belajar Sql oke, es krim itu bahasanya lebih simple jadi contohnya kita pengen ngambil data transaksi dan tanggal kita cuma tinggal bilang dengan bahasa sql like kolom a kolom b dari tabel database mana terus filter yang kita lakukan di mana itu sangat simple kalau nanti masih ada waktu bisa sedikit aku
+
+[Alif Fikri] 13:42:27
+tunjukin contohnya yang kedua, hard Skill Arsky yang kedua Python Python ini salah satu tools yang dapat melakukan berbagai macam hal ini.
+
+[Alif Fikri] 13:42:34
+Powerfull banget nih pythonnya. Oh tapi untuk analisis data itu dilakukan untuk pengolahan data dan visualisasi.
+
+[Alif Fikri] 13:42:41
+Dan ini skill yang utamanya adalah programming. Kalau Sql itu programmingnya.
+
+[Alif Fikri] 13:42:46
+Mungkin aku bisa bilang lima enam lah dari satu sampai sepuluh itu dari yang satu paling mudah. Sepuluh paling sulit itu lima enam mungkin kalau Python tuh kalian lima puluh enam udah bisa melakukan hal ini.
+
+[Alif Fikri] 13:42:59
+Hai, tapi kalau delapan sembilan sepuluh kalian sudah bisa sampai sana lebih banyak belajarnya waktunya. Segala macam kalian bisa melakukan hal hal yang lebih canggih lagi kayak gitu.
+
+[Alif Fikri] 13:43:09
+Karena memang ini tools sangat fleksibel sangat hebat. Lah yang ketiga itu dashboarding visualisasi jadi untuk melakukan visualisasi.
+
+[Alif Fikri] 13:43:18
+Data gimana cara kita bikin page itu tetep perlu skillnya dan yang keempat statistik nih matematika.
+
+[Alif Fikri] 13:43:25
+Wah kalau temen temen mungkin ga suka matematik dan pengen belajar science harus siap siap mau nggak mau suka sama matematika karena ini tugasnya pentingnya adalah untuk mengintervensi data data melakukan tes mendeskripsikan data tidak bisa melakukan prediksi menggunakan regresi nanti contohnya seperti apa kita bisa lihat kayak contoh statistik yang prediksi contohnya kayak recommendation system itu sebenarnya
+
+[Alif Fikri] 13:43:56
+prediksi sebenarnya itu atau misalnya kita memprediksi salesnya sebulan ke depan seperti apa itu regresi registerasi itu kayak gimana?
+
+[Alif Fikri] 13:44:07
+Itu nanti. Mungkin teman teman bisa belajar.
+
+[Alif Fikri] 13:44:10
+Dan yang gak kalah penting soft skill adalah komunikasi communication sama analisis komunikasi ini adalah, gimana caranya dari inside dan data kita bisa mengkomunikasikan supaya orang itu paham langsung kayak kayak gitu.
+
+[Alif Fikri] 13:44:23
+Itu itu skill tersendiri yang harus di punya itu nggak harus dipunya. Sekarang tapi bisa dalam waktu.
+
+[Alif Fikri] 13:44:33
+Ke waktu kalau kalian punya hard skillnya terus punya soft skill communication yang sedikit nanti kalian bisa tanya temen temen gimana sih communication bisa latihan presentasi dan yang terakhir analisis membaca data mencari pattern membaca grafik melakukan analisis membuat inside dan mencari kesimpulan.
+
+[MC_Barita Davitya] 13:44:34
+Tidak dapat sertifikat tidak berlanjut.
+
+[MC_Barita Davitya] 13:44:39
+Oke oke.
+
+[Alif Fikri] 13:44:51
+Call adalah Curio City. Kalian tanya nih? Kenapa datanya kayak gini data ini kita bisa jadi apa sih kenapa Sel?
+
+[Alif Fikri] 13:44:57
+Nya naik kenapa ini itu? Pertanyaan pertanyaan yang bakal ditanyakan dan kalian harus tanya sebelum kalian presentasi sehingga kalian bisa tahu nih ceritanya kalian mau apa sebagai seorang data analis soft skill ini penting karena nanti kita ini adalah orang yang berinteraksi dengan tim marketing atau tim bisnis atau tim lain atau kalau misalnya buat analisis data pribadi kita akan berenerasi dengan diri kita sendiri kalau
+
+[Alif Fikri] 13:45:28
+analisisnya enggak kuat jadi nanti kita bisa salah ngambil keputusannya gitu. Kalau dulu aku pernah dengar salah satu head of data lupa di mana dia pernah ngomong kayak gini sebagai seorang data analis itu kita harus bisa menjadi seorang jurnalis kayak gitu.
+
+[Alif Fikri] 13:45:52
+J jurnalis atau kayak penulislah yang bisa menceritakan datanya bisa mempresentasikan datanya supaya orang orang tuh mau bergerak supaya orang orang itu mau mengambil keputusan kadang dari datanya naik delapan persen.
+
+[Alif Fikri] 13:46:06
+Terus kenapa kalau naik? Kayak gitu. Nah, kalau udah naik kita tetepin aja desain ini kayak gitu, itu kita harus tetep di situ itulah kenapa pentingnya data analis karena ini orang yang bisa atau bisa melakukan perubahan dalam pemerintahan kalau kita tahu data analisisnya kita bisa ngasih rekomendasi nih pak baiknya perubahannya seperti ini walaupun mungkin nanti ada sedikit belum tentu bisa diperhitungkan.
+
+[Alif Fikri] 13:46:35
+Tapi kita udah ngasih rekomendasi kalau di tim bisnis atau di industri kita bisa kasih informasi ini kita karena dari data kayak gini kita bisa lakukan hal ini loh.
+
+[Alif Fikri] 13:46:45
+Ternyata bener itu kan jadi suatu nilai plus buat kita. Karena kita yang tahu datanya kalau untuk pribadi misalnya buat investasi atau melihat penjualan kita di toko kita sendiri di bisnis kita sendiri.
+
+[Alif Fikri] 13:46:57
+Atau misalnya kayak di online e commerce kayak gitu kita bisa tahu nih pen penjualan kita nih kayak gini sekarang kita kayaknya bisa nih jual yang ini terus nih karena banyak karena laku itu itu kan dari hasil analisisnya.
+
+[Alif Fikri] 13:47:11
+Dan balik lagi yang sebelah kiri hard skill itu cuman tools tulus. Misalnya kalau kita mau pasang lampu atau bukan mau mau mau membenerin sesuatu kita butuh obeng kita butuh tank yang butuh obeng doang tapi tools ini kalau kita punya ini hidup kita jadi lebih mudah kalau kita punya skill ini kita lebih mudah melakukan analisis melakukan komunikasi kayak gitu, jadi penting kalian
+
+[Alif Fikri] 13:47:37
+punya tulisnya mempersiapkan full sebanyak mungkin supaya.
+
+[Alif Fikri] 13:47:43
+Menambahkan dengan plus soft skill kalian itu tuh jadi efeknya jauh lebih besar kayak gitu dan tools ini tuh bukan saling apa bukan saling kalau udah bisa skill ngapain bisa python kalau bisa python ngapain pakai skill nggak atau bahkan kalau kita bisa exclude sama piton ngapain kita pakai tools lain kayak kayak
+
+[Alif Fikri] 13:48:02
+excel atau spreadsheet itu tuh semua saling complimentary jadi saling mendukung.
+
+[Alif Fikri] 13:48:08
+Kalau kalian bisa scale sama python kalian bisa kombinasi hal ini loh. Kayak gitu.
+
+[Alif Fikri] 13:48:13
+Oke, nah ini contohnya Python. Kalau kalau misalnya teman teman pengen belajar tools python itu bisa pakai collab d research google kom kayak gitu.
+
+[Alif Fikri] 13:48:23
+Kl klub paling tapi ini sangat penting tentunya mana nih sambil dibuka lah ini sebenarnya salah satu tools untuk membaca data melakukan transformasi dan membuat mesin learning jadi collab ini dari google ke kalian gratis kalian gak perlu punya komputer bagus itu semua ada di cloud ya jadi enak online segala macam contohnya kayak gimana nih.
+
+[Alif Fikri] 13:48:50
+Contohnya data kita mau bikin analisis jadi jadi si python ini bentuknya kayak gini kolektornya colep research sorry Collect Google Hai ini dia mau kenapa sih dia jadi semacam kayak notebookout begitu kayak catatan dimana kita bisa melakukan programming dan kita bisa buat chart dan kita juga bisa bikin analisisnya di
+
+[Alif Fikri] 13:49:16
+sana. Jadi dia pengen ngapain nih Iku. I am Only going to look at one country initially so create a new data frame called spain data jadi cuman pengen bikin data dari Spanyol doang caranya dia udah ambil country yang spend doang enakan bacanya dari data populasi ambil country yang spend gitu terus dia
+
+[Alif Fikri] 13:49:37
+melakukan plot untuk melihat apa sih populasi dari negara Spanyol dari tahun ke tahun dan melihat hubungan linier nah, ini.
+
+[Alif Fikri] 13:49:49
+Contohnya dari sembilan puluh dua ribu populasinya naik dari dua puluh delapan juta mungkin ke empat puluh empat juta kayak gitu.
+
+[Alif Fikri] 13:49:57
+Ini bisa dilakukan di python. Hal tools jadi jadi kita bisa lihat informasinya kita bisa ngoding disini dan lain lain kayak gitu.
+
+[Alif Fikri] 13:50:08
+Nah ini ntar okay nah ini contohnya ini paling dasar kalian bisa bikin tanpa tambahan di Python terus bisa bikin ini dasar dasar pythonnya segala macam hai ini yang paling dasar kayak gitu kalian belajar programmingnya dulu kalau misalnya mau python nah kalau misalnya mode the visualisation ini Hai.
+
+[Alif Fikri] 13:50:39
+Hai ini bisa bikin visualisasi seperti ini visualisasi dari data damai. Oke bisa diwarnain hai oke, terus bisa dibikin data distribusi kita bisa lihat dan lain lain ini dari google semua kalian tinggal buka kolab the research google kom atau cari aja kolab google ini bisa bikin table of konten bisa bikin file nya dari google
+
+[Alif Fikri] 13:51:05
+drive segala macam dan lain lain gitu. Hai, oke dan kita juga bisa belajar tentang sorry.
+
+[Alif Fikri] 13:51:17
+Ini ada banyak ini semua materi materi yang ada di halte kayak gitu. Ini kalau Python kalau Sql itu simple kayak gini, contoh contohnya select order items dari mana segala macam tabelnya apa ini bisa dicari di big query kalau teman teman mau belajar kayak gitu.
+
+[Alif Fikri] 13:51:37
+Ini contoh dari Python dan Sql tadi yang menggunakan Collab gitu. Oke oke yang kedua tulisnya Python terus yang kedua statistik wah ini banyak nih matematikanya kalau ada deskriptif statistik ada rata median mode itu mungkin teman teman pernah belajar The range standard deviation varian absolutely viation itu
+
+[Alif Fikri] 13:52:02
+juga mungkin apa sih ini artinya itu harus dimengerti dulu. Selanjutnya ada environment inferential statistik itu yang lebih rumit lagi dan segala macam terus ada Rumus.
+
+[Alif Fikri] 13:52:13
+Rumus rumus ini rumus apa nih? Dirumus secara rata rata itu adalah total dibagi jumlah datanya ada formula titz yang ini apa maksudnya kan ini harus dipelajari lagi konsepnya seperti apa fungsinya untuk apa cara menginterpretasikan resultnya seperti apa terus nanti ada corelation dan dini regration bedanya apa sih kak corelation.
+
+[Alif Fikri] 13:52:32
+Mungkin kalau Corelation itu adalah hubungan antara dua variabel kalau X naik naik contohnya apa tadi tahun sama populasi kalau tahunnya naik populisnya naik tapi Corelation belum tentu concition jadi apakah memang tahun ke tahun terus naik jumlah orangnya jadi itu ngentuk nah, kalau nilai regration itu nanti fungsinya adalah kita untuk memprediksi nih di tahun nanti dua ribu contohnya tadi di
+
+[Alif Fikri] 13:52:58
+sini atau bahkan di tahun dua ribu sembilan empat puluh datanya. Kita nggak tahu kayak gimana ini apakah dia lebih besar dari empat puluh empat juta orang atau enggak dan ada logistik register ini banyak banget matematika di balik ini kalau teman teman ingin belajar boleh.
+
+[GadingB] 13:53:10
+Apakah Semua?
+
+[Alif Fikri] 13:53:13
+Terus yang kedua yang ketiga. Mungkin charting membuat charge efektif. Chart itu juga penting. Jadi selain membuat chart skillnya yang dibutuhkan kita juga harus bisa communicate chart lebih baik lagi contohnya kayak gini sales by product kategori kenapa ini efektif karena dari sini kita nggak bisa lihat nih ini furnitur yang paling tinggi atau engga office
+
+[Alif Fikri] 13:53:37
+supplies nggak jadi kita harus baca dulu terus kita harus prediksi kira kira yang paling banyak proporsinya yang mana kita nggak tahu setelah kita lihat angkanya teknologi yang paling gede udah kita tahu tapi yang lebih efektif itu yang kanan jadi membuat communication.
+
+[Alif Fikri] 13:53:54
+Lebih jelas kita bisa tahu teknologi itu tiga puluh enam persen dari sales tinggi dia dengan jumlahnya delapan ratus delapan puluh delapan dollar delapan ratus ribu dollar mudah dipahami.
+
+[Alif Fikri] 13:54:04
+Intuitive, jelas dan informatif hai dan yang terakhir mungkin sedikit proses analisisnya jadi apa sih yang dilakukan sama data analisis Hai itu kita bisa jadi contohnya adalah pertanyaannya kayak gini, bagaimana kondisi sales sebuah bisnis tahun lalu ini dari data analisis nih nah, itu analisisnya bisa pakai tulis campuran kalau aku pribadi itu bisa campur campur nih kalau mau cepet itu
+
+[Alif Fikri] 13:54:34
+bisa pakai sql sama google sheet kita pengen tahu kondisi sales tahun lalu kalau mau lebih rumit kita bisa pakai paten sama kolab python.
+
+[Alif Fikri] 13:54:42
+Collab. Kalau kalau mau jadi visualisasi kita spo sama tablet itu tuh tidak terpisah, kita bahkan bisa pakai Sql terus pakai pakai python itu tuh emang kombinasi yang kita enaknya pakai apa sih kayak gitu.
+
+[Alif Fikri] 13:54:54
+Jadi kalau teman teman mau belajar dari awal aku saranin tulisnya empat hal empat tulus nin dulu S sql google sheet mungkin pakai visualisasi datanya pakai tablo atau pakai big w atau pakai luker terus yang ke empat baru python oke kalau mau banget itu pentingnya di sana dulu kayak gitu nggak perlu sampai ke mesin learning yang ribut ribet
+
+[Alif Fikri] 13:55:19
+segala macem ini pakai tulistul sini itu udah bisa nganalisis data kita. Jadinya ke Resort.
+
+[Alif Fikri] 13:55:26
+Walaupun misalnya ternyata tidak efektif ini tadi, capnya tapi ini bisa menghasilkan chart tersebut. Dari kombinasi tulus tersebut nggak dipisahkan tuh Python Doang bisa menghasilkan ini benar, tapi python itu Learning craft lumayan sulit karena programming base mungkin lebih muda sql sama google sheet gas merta merta Pai
+
+[Alif Fikri] 13:55:47
+tentu.
+
+[Alif Fikri] 13:55:49
+Hai jadi tulus satu satunya kalian kalian penting juga nih. Belajar Sql penting juga bisa belajar aspread sheet excel google sheet atau visualisasi pakai tablet.
+
+[Alif Fikri] 13:56:00
+Kalau misalnya mau yang lebih rumit prediksi sell tiga bulan ke depan mungkin nggak bisa pakai tablo atau pakai Google sheet kita harus pakai Sql plus python sehingga kita bisa mentransformasikan data yang di kiri jadi result yang di kanan dari historical data kita bisa prediksi transaksi dua bulan atau satu tahun ke depan tiga bulan satu
+
+[Alif Fikri] 13:56:22
+tahun ke depan. Seperti apa cara ini kan kelihatan naik turun naik turun jadi ini trennya naik turun turun kita tahu nih.
+
+[Alif Fikri] 13:56:31
+Untuk selanjutnya, naik. Karena apa? Karena mungkin di bulan yang sama tahun lalu dan seperti itu peternak. Mungkin dari aku sekian saja kalau misalnya ada pertanyaan atau Nind dari moderator sekarang atau nanti?
+
+[Alif Fikri] 13:56:45
+Dipersilahkan di kolom Chat dulu juga boleh paling sekian dari aku terima kasih semuanya.
+
+[Alif Fikri] 13:56:52
+Oke, mungkin lanjut balik ke moderator lagi.
+
+[Vanya Chairunissa] 13:56:59
+Hai oke thank you so much kali batas penjelasannya ini ini udah sangat lengkap buat buat teman teman mungkin yang baru pertama kali nih mbak denger gitu atau ikut penjelasan terkait data analisis ini udah lengkap banget dari mulai awal gitu.
+
+[Vanya Chairunissa] 13:57:14
+Kita harus bisa koasin tools apa aja kemudian nanti itu ada apa aja sampai ke bahasa pemrograman ini yang sekiranya harus bisa dikuasai gitu serta flow kerjanya sih kayak gimana itu sebenarnya menurut aku jarang banget sama sama banyak pemateri mengenai data analisis mungkin buat qne aku hold dulu kali kak jadi kita gabung di akhir aja nanti bakal sama
+
+[Vanya Chairunissa] 13:57:38
+sisinya kak yogi jadi sekarang mungkin kita langsung masuk aja ke sesinya kayak gini buat ngebahas gimana sih kira kira caranya supaya bisa berkarya sebagai data analis terlebih di corporate sekarang gitu kak trennya tuh kaya gimana gitu dan mungkin apa aja sih yang dicari sama kantor kantor gitu sekiranya kita sebab yang mau berkaitan dengan sebagai data analistus misalnya nih buat teman teman
+
+[Vanya Chairunissa] 13:58:00
+yang udah bekerja atau mungkin lagi intership, tapi bukan data analis gitu bisa nggak sih kira kira switch Card mungkin bisa dikasih tau tips dan triknya juga nanti kayak gimana sama kayak gitu.
+
+[Vanya Chairunissa] 13:58:13
+Jadi untuk kayu waktu dan tepat dipersilakan.
+
+[Yogi Arief Putra] 13:58:13
+Oke Halo thank you vanya atas perkenalannya juga aku coba izin share screen dulu kayaknya sih.
+
+[Vanya Chairunissa] 13:58:20
+Boleh boleh silahkan kak.
+
+[Vanya Chairunissa] 13:58:23
+Oke, mungkin sambil nunggu share scare aku juga mau ngasih tahu ke teman teman untuk daftar hadir bakal di share di akhir webinar Station.
+
+[Vanya Chairunissa] 13:58:32
+Sampai akhir buat dapetin sertifikat mungkin nanti atau mungkin buat yang mau daftar hadirnya gitu.
+
+[Vanya Chairunissa] 13:58:39
+Jadi akan ada di akhir webinar oke silakan Kak yogi.
+
+[Yogi Arief Putra] 13:58:42
+Udah udah kelihatan screen apa oke, baik. Terima Terima kasih teman teman semua yang hari ini siang siang udah udah hadir gitu dan dan ini coba lanjutin dari apa yang Alif tadi sampaikan tadi kan dia udah banyak bahas tentang teknis banyak bahas tentang metodologi proses yang sangat simple dan hari ini aku coba bahas dari sisi yang berbeda koin yang lain.
+
+[Vanya Chairunissa] 13:58:45
+Kepalanya.
+
+[Yogi Arief Putra] 13:59:08
+Gitu terutama dari sisi kita sebagai user karena nanti ketika jadi data science teman teman akan berhadapan dengan orang orang yang melari berbeda sudut pandangnya berbeda teknikalitisnya dan juga hal hal lain mungkin ini dari pengalaman pengalaman aku sebelumnya.
+
+[Yogi Arief Putra] 13:59:26
+Ketika kita bekerja sebagai seorang ajar mencari orang sebagai data scientist atau data analis data engineer yang memang oke, gitu nah ini aku coba share dari sedikit pengalaman aku waktu mulai dari konsultan konsultasi di gojek di start up company juga sampai di sekarang bagaimana kita mencari orang orang yang memang relevan atau yang memang cocok dengan kebutuhan company karena nanti aku
+
+[Yogi Arief Putra] 13:59:53
+mungkin kasih konteks beberapa kebutuhannya memang seperti apa sih terutama ketika kita ngomongin di field data ini gitu.
+
+[Yogi Arief Putra] 14:00:01
+Jadi mungkin ini yang aku share tapi sebelum itu mungkin kemasannya nanti adalah lebih ke sharing session apa aja sih yang menurut aku pribadi bisa relevan buat teman teman baik dari sisi persiapan pekerjaannya maupun persiapan diri sendirinya gitu.
+
+[Yogi Arief Putra] 14:00:16
+Makanya menurut gua ada tiga pelajaran besar gitu dari banyak ketemu sama orang di data science maupun di engineering secara keseluruhan ataupun di industri gitu.
+
+[Yogi Arief Putra] 14:00:28
+Dan juga ini personal Reflection, ada tiga hal yang menurut gue penting ketika kita ngomongin preparation menjadi seorang data saya sebagai karir yang pertama adalah No yourself yang kedua adalah bagaimana kita build pada skillnya yang kita inginkan dan yang ketiga adalah bagaimana kita benar benar.
+
+[Yogi Arief Putra] 14:00:47
+Bisa Sangat oke, Supaya orang itu tidak akan atau akan melihat kita kompeten dan akan mencari kita kira kira tiga ini yang akan gue bahas di hari ini.
+
+[Yogi Arief Putra] 14:00:58
+Mungkin kita coba refleks sedikit dan discuss tiga poin ini. Bagaimana pengimplementasiannya untuk bisa teman teman praktekkan gitu yang pertama tentang new yourself nah yang paling gampang new yourself yang jarang kita bahas di kampus atau di sesi sesi banyak webinar itu adalah bagaimana kita tentang tentang diri sendiri terutama dari personality jadi ini mungkin
+
+[Yogi Arief Putra] 14:01:24
+rada apa balik sedikit gitu ini sangat sangat personal. Tapi menurut gua ini jauh lebih penting ketika kita punya standing tadi kalau ngomong alif ngomongin data ini adalah data poin tentang diri kita sendiri.
+
+[Yogi Arief Putra] 14:01:36
+Dari sisi Science based. Kalau teman teman tahu mungkin melankolis sanguin dan segala macem atau mbtia sebenarnya mengacu semuanya mirip mirip ke bagian ini.
+
+[Yogi Arief Putra] 14:01:47
+Sangat simpel dan sangat praktikal warna jadi merah, kuning, hijau, biru atau dyc mungkin teman teman bisa share juga kalau sudah pernah ikut atau pernah ada melakukan beberapa interview dan segala macam biasanya ada profil ini gitu boleh di share di chat juga gue pengen tahu teman teman tuh masuknya dominance influence stabilizing atau proses merah kuning hijau
+
+[Yogi Arief Putra] 14:02:11
+biru. Nah, ini yang biasanya nanti akan relevan jadi sesimpelnya untuk teman teman yang resort oriented driver banget di lingkungannya dan juga sangat kompetitif.
+
+[Yogi Arief Putra] 14:02:23
+Nah ini biasanya peran merahnya banyak hai kalau kuning tuh yang persuasif inspiring entistik dan lain lain gitu.
+
+[Yogi Arief Putra] 14:02:32
+Kalau yang ijo itu lebih kepada demokratik passion sabar gitu. Dan sangat sangat jadi apa pendengar yang baik biasanya cukup besar di Ijonya dan kalau yang biru tadi lebih ke analitikcal oriented sistematik dan lain lain.
+
+[Yogi Arief Putra] 14:02:51
+Nah, ini mungkin satu orang itu enggak cuma punya dua tapi ini sebenarnya analoginya udah kayak ember gitu.
+
+[Yogi Arief Putra] 14:02:59
+Jadi bukan berarti ketika temen temen dominannya warna misalnya warna merah atau warna kuning bukan berarti teman teman biru maupun ijo tapi justru ketika teman teman tahu teman teman tol mulai dari merah gitu.
+
+[Yogi Arief Putra] 14:03:12
+Misalnya ini bisa dipraktis gitu bahwa oke di pekerjaan tertentu gua butuh untuk bisa lebih biru atau lebih ijo.
+
+[Yogi Arief Putra] 14:03:21
+Nah ini yang jadinya membantu kita untuk mempraktis apa yang memang jadi gapnya kita secara umum mengingat waktu bahkan secara umum kira kira dari empat ini kalau tadi yang diceritakan sama alif gitu.
+
+[Yogi Arief Putra] 14:03:36
+Data analitik dan data scientist. Biasanya secara requirement akan dibutuhkan warna yang mana yang kelihatan dominan, tebak tebakan aja merah, kuning, hijau, biru.
+
+[Yogi Arief Putra] 14:03:49
+Biro oke ada tebakan lain.
+
+[Yogi Arief Putra] 14:03:54
+Dsd Dfc.
+
+[Yogi Arief Putra] 14:03:58
+Biro dua orang satu lagi ada tebakan lain.
+
+[Yogi Arief Putra] 14:04:07
+Belum ada bener jawabannya biru tapi gak cukup sampai situ tadi mungkin cerita sedikit juga b biru dalam proses menganalisa datanya prosesnya.
+
+[Yogi Arief Putra] 14:04:20
+Gitu. Tapi ketika kita ngepresent data itu kita perlu rada kuning kita perlu ada persuasif nih, karena kita ketemu bukan orang data analitik bukan orang data bisa orang marketing bisa bos bos di atas gitu.
+
+[Yogi Arief Putra] 14:04:34
+Level level chief dan segala macem. Yang mungkin mereka tidak bisa terlalu detail jadi kita perlu ada kemampuan warna kuning dari persuasif inspiring antusiastic untuk menjelaskan data apa yang kita lakukan tapi juga di merah di sisi merah pasti ada karena biasanya ketika kita ngomongin bisnis gak cuma berhenti di birunya aja tapi juga harus berangkat ke merah karena dibutuhkan nih bagaimana
+
+[Yogi Arief Putra] 14:04:56
+data data kita. Itu juga bisa menghasilkan resort di bisnis frame juga juga tercapai. Timeline itu itu enggak bisa kita terlalu banyak eksplorasi, tapi timeline nggak sesuai dengan tamilan yang di bawah atau di line sama stakeholder kita jadi kebiru mungkin adalah sesuatu yang berangkat dari situ tapi percayalah bahwa ketika kita menjadi seorang data saintis atau jadi apapun empat peran ini
+
+[Yogi Arief Putra] 14:05:21
+kita perlu praktis juga tergantung dari model dari pekerjaannya. Yes, mungkin ntar teman teman banyak di warna birunya tapi jangan lupa juga untuk develop yang warna merah dan ijonya karena itu saling dibutuhkan satu sama lain ketika kita ngomongin esa tim gitu di perusahaan Hai, nah, ini ini yang jadinya nanti teman teman akan tahu oke, gua mulai dari berangkat dari mana dan perlu apa yang di develop jadi
+
+[Yogi Arief Putra] 14:05:47
+jangan jangan berkecil hati juga teman teman yang mulai dari warna merah, kuning dan hijau. Kalau ternyata memang teman teman pengen explore gitu di bagian data analitikies mungkin perlu waktu untuk bisa belajar tapi teman teman juga punya flavory atau punya keunikan menarik nanti ketika mulainya dari warna warna lain kalau yang warna udah mulai warna biru its good start tinggal bisa dilengkapi
+
+[Yogi Arief Putra] 14:06:12
+tapi jangan lupa juga untuk praktis warna warna lain. Nah, ini ini sesuatu yang framework bisa dipakai untuk kedepannya terus menerus teman teman juga akan lebih aware lah terkait dengan diri sendiri seperti apa dan apa yang harus di develop gitu.
+
+[Yogi Arief Putra] 14:06:24
+Nah gampangnya kalau sama sekali nggak tahu dari sekarang warnanya seperti apa sering dikerjakan apa yang membuat teman teman tuh ketika melakukan aktivitas tertentu cukup pattern power atau senang merasa berdaya kelompok riset ini bisa banget dilihat atau satu persatu ketika kita ngomongin salf reflection gitu jadi nanti biasanya klaten tuh dari apa yang teman teman suka dari pekerja mungkin belum dapat
+
+[Yogi Arief Putra] 14:06:55
+pekerjaan mungkin masih masih intensif atau bahkan project project di kampus dan lain lain itu sebenarnya sudah mulai kelihatan yang mana secara natural tinggal di develop ke sesuai kebutuhan atau sesuai dengan aspirasinya teman teman gitu.
+
+[Yogi Arief Putra] 14:07:10
+Nah tadi alif juga sempat mention tentang chat Gpt ini aku seneng banget ketika kita coba bisa discuss at least sama chat Gpt advisor nanti scriptnya atau promnya gampang aja kayak saya nih sebenarnya dc profile apa terus list activities yang saya suka tuh apa aja coba dong gimana punya plan untuk data scientist
+
+[Yogi Arief Putra] 14:07:34
+atau data engineer tadi. Data analis supaya aku bisa nih play on my strength dulu dan bisa nge develop apa yang jadi Big atau apa yang jadi rumpor opportunity nya saya biasanya nanti dia akan ngasih sesuatu yang cukup taktis paling enggak punya gambaran besar teman teman bisa adjust mulai dari sana gitu.
+
+[Yogi Arief Putra] 14:07:54
+Jadi lets Use. The teknologi untuk bisa membantu kita dalam berkarir. Ini juga.
+
+[Yogi Arief Putra] 14:07:59
+Nah itu berangkatnya dari New Yourself dulu karena ini akan penting ketika nanti kita kolaborasi ketika kita skill building ketika kita mau jadi sangat oke, di bidang itu ini akan menjadi penting duluan bisa direfisit dua tiga bulan enam bulan sekali gitu bahwa ternyata ternyata ada yang oke, ada yang oke, jadi keep apa training bahwa kadang mungkin dari chat dia cuman general aja tapi
+
+[Yogi Arief Putra] 14:08:24
+kita terus coba praktis lah dari sana. Apa yang kita sudah discuss. Oke, lanjut kalau tadi udah berangkat dari yang pertama dari diri sendiri baru kita balik nih, tadi kita sambungin ke skill building seperti apa yang cocok untuk seorang data science tadi sudah tahu sekarang kita develop nah tadi mungkin sudah dijelasin juga banyak ya hard skill soft skill mungkin biar gampangnya
+
+[Yogi Arief Putra] 14:08:48
+hard skill, itu yang technical soft skill itu adalah diri sendiri dan juga orang lain jadi people skills kita gampang gampang mulai communication Leadership Timor orang lain gitu.
+
+[Yogi Arief Putra] 14:09:03
+Bagaimana bagaimana kita berkolaborasi mungkin atau sedikit nah, ini yang menarik? Aku coba bahas melengkapi yang dari udah dibahas tadi jauh tentang problem software dan communication dalam soft skill sebagai seorang data science satu People skills problems offing dan communication akhirnya jadi sangat penting untuk melengkapi yang sebelah
+
+[Yogi Arief Putra] 14:09:23
+Kiri menariknya gini ketika kita ngomongin orang Indonesia cara keseluruhan comparing atau kita bandingin sama misalnya orang India ada gua juga ketemu banyak orang India Om tadi orang orang India itu kan kalau kita lihat banyak tuh di top leadership atau misalnya top jadi ceo ini microsoft google orang Indonesia.
+
+[Yogi Arief Putra] 14:09:48
+Ada di level Level sanai ternyata itu datang ketika kita coba generalisir itu itu datang dari kebiasaan atau culturalnya kita bahwa biasanya orang India itu jauh lebih komunikasinya lebih percaya diri jauh lebih implancing dan segala macam dia pun sebenarnya secara harmonis bisa diadu bahkan banyak gw ketemu banyak orang dari data science dari dari teman teman yang
+
+[Yogi Arief Putra] 14:10:16
+lain gitu dari engineering dan lain lain itu sebenarnya jago banget susah untuk bisa mengejar skill yang mereka punya gitu comparing ke orang orang di India dan lain lain gitu.
+
+[Yogi Arief Putra] 14:10:26
+Tapi tapi karena orang India ini jauh lebih banyak bisa ngomong jauh lebih banyak bisa influencer cepet naik ke atas comparing tuh orang orang dari Asia Tenggara maupun dari Indonesia gitu.
+
+[Yogi Arief Putra] 14:10:39
+Jadi ini yang menurut gue jadinya penting dan gua coba untuk perlu develop ourself di bidang komunikasi dan terutama komunikasi lah di komunikasi ini supaya kita bisa compet nih enggak cuma di Indonesia.
+
+[Yogi Arief Putra] 14:10:57
+Tapi juga bisa di dunia apalagi kalau kita ngomongin data scientist yang mana talent nya pun sekarang sudah mendunia gitu loh.
+
+[Yogi Arief Putra] 14:11:02
+Kita bisa dengan mudah punya project di Amerika di Eropa, dan lain lain hanya dengan adanya work from anywhere gitu.
+
+[Yogi Arief Putra] 14:11:13
+Kan ada banyak platform yang bisa dieksplor disana. Nah, ketika kita ngomongin tadi mungkin problem solving sama communication.
+
+[Yogi Arief Putra] 14:11:19
+Kalau ngomongin problem solving. Intinya adalah tadi udah dijelaskan juga adalah bisnis understanding pada akhirnya ketika kita ada di bisnis atau di pemerintahan sebagai seorang data analis data saintistis itu kita nggak boleh tutup mata nih bahwa apa yang dilakukan sama adar departemen apa yang dilakukan oleh bos bos kita di chief level ataupun di pejabat pejabat jadi kalau di
+
+[Yogi Arief Putra] 14:11:43
+pemerintahan. Itu, mereka melakukan sebuah proses yang mana seperti apa, sampai akhir kayak gimana, terutama kalau di bisnis itu bagaimana gampang adalah bisnis itu bisa menghasilkan margin atau pendapatan mulai dari apa dulu sih misalnya dari logistiknya datang kah terus di warehouse dan lain lain sampai di marketing sales akhirnya baru dapet si pendapatannya nah, ini yang paling gak perlu dilihat secara
+
+[Yogi Arief Putra] 14:12:11
+keseluruhan bahwa ketika teman teman masuk ke dalam satu instansi organisasi ataupun satu bisnis. Tahu dulu proses di dalamnya itu seperti apa untuk bisa menghasilkan margin jadi teman teman ketika jadi data sentis tahu apa yang bisa diberikan value yang berbeda ketika oke, teman teman tahu datanya dan bagaimana ini bisa relevan dengan bisnis dulu bisnis understanding tadi di industri yang memang temen temen inginkan atau
+
+[Yogi Arief Putra] 14:12:38
+di perusahaan instansi dan hal hal lain pemerintah mungkin bukan margin tapi value untuk misalnya untuk masyarakat dan beberapa hal lah misalnya.
+
+[Yogi Arief Putra] 14:12:49
+Kalau udah ngomongin data communication. Ini gua personally sangat suka dengan analogi ini bisa dilihat di google.
+
+[Yogi Arief Putra] 14:12:55
+Gue pernah dapet di linking tadi data story telling itu jadinya penting karena kita mungkin teman teman mungkin akan ketemu ketika jadi data science itu r Raud data sampai data vision sudah oke, tapi ketika itu enggak detail dengan story yang tepat itu akan jadinya missed teman teman udah ngelakuin segala proses sql tadi mungkin pakai python terus data
+
+[Yogi Arief Putra] 14:13:21
+analitik tapi itu kan berhentinya sampai di mungkin tablet sampai di data visualization.
+
+[Yogi Arief Putra] 14:13:25
+Tapi ketika teman teman bekerja dalam satu perusahaan atau instansi teman teman ketemu dengan misalnya orang marketing ketika ngobrol sama orang marketing itu mungkin at the first place nggak bisa langsung ngomong bahwa prosesnya adalah kita melakukan Sql ini grace lineer kayak gini korelasinya seperti ini dan lain lain at the first place karena mereka bukan berangkat dari seorang data saintis
+
+[Yogi Arief Putra] 14:13:51
+atau data analis. Jadi kita perlu bahasa yang berbeda. Perlu pembahasan yang berbeda supaya apa yang kita udah kerjain itu bisa eding value buat mereka.
+
+[Yogi Arief Putra] 14:14:00
+Kalau gua akan sangat suka. Gitu. Ketika misalnya ngobrol saya orang marketing ada orang data data analisis datang ke gua.
+
+[Yogi Arief Putra] 14:14:08
+Kalau dia langsung ngomongin Sql ngomongin jadi pasti gua ga akan dapet gua akan memberikan intensi yang atau willingness untuk bener bener ngedengerin tapi ketika dia datang ke gua data analisis ini Y Yogi misalnya gitu promo konten promosi lo bulan lalu ketika kita targetin ke grup edge misalnya Ic yang sekian sampai sekian itu tidak berjalan tapi sebenarnya lu udah pernah
+
+[Yogi Arief Putra] 14:14:38
+Ngelakuin konten promosi yang viral terus juga secara sell juga bagus ini waktu di bulan empat nah, bedanya adalah yang lu lakuin adalah kontennya seperti ini jadi salah saya tinggi.
+
+[Yogi Arief Putra] 14:14:52
+Hai, mau nggak kita discuss lebih jauh, gimana kita bisa melakukan promosi yang lebih oke, gua udah punya datanya nih, gua bisa lihatin kalau nah dengan itu kita akan ngajak mereka untuk mengerti dunia mereka baru tuh mereka akan dapat curi city ternyata datanya seperti ini ternyata yang membuat salesnya bagus tuh kayak gini nah datanya tuh baru kita bisa bahas tuh lihat tuh yang kita udah strukturin yang kita udah
+
+[Yogi Arief Putra] 14:15:22
+visualise supaya story tellingnya tadi tercapai karena kalau teman teman berangkatnya tadi cuman dari data yang udah distrukturin atau di visualize aja kayak ada dashboard isinya data self data ini data itu tapi nggak dibuat jadi status story yang itu relevan buat mereka itu aku jamin akan sulit untuk menyampaikan sesuatu
+
+[Yogi Arief Putra] 14:15:44
+ringan dan influencer mereka nanti mungkin teman teman sering dengar kayak Ahok tim marketing atau si orang ini enggak ngerti deh tentang data sebenarnya mungkin kita bisa reflek lagi ketika itu terjadi apa sih yang kita bisa perbaiki.
+
+[Yogi Arief Putra] 14:15:58
+Ternyata mungkin kita bisa perlu masuk ke dunia mereka dulu bahasanya mereka dulu baru kita jelasin tentang data communication yang tadi supaya akan jauh lebih influencer dan kemampuan itu akan membantu teman teman dilihat dari sisi ejaan ya hal hal yang kayak gini untuk paham tentang siapa orang yang kita hadapi apa yang menjadi concern mereka di pekerjaan itu terus kita provide data yang menarik balapan
+
+[Yogi Arief Putra] 14:16:34
+buat mereka at the first place itu akan ngebuat diskusinya akan jauh lebih mining volt dibandingkan tadi kita berantem di Sql dan lain lain yang mereka juga nggak ngerti gitu loh.
+
+[Yogi Arief Putra] 14:16:45
+Bukan gak penting, tapi perlu di framing dengan atau di communicate dengan lebih oke.
+
+[Yogi Arief Putra] 14:16:50
+Hai, oke, kalau misalnya ada pertanyaan nanti langsung boleh ditanyain. Nah, ketika kita ngomongin skill general tadi nanti teman teman bisa banget untuk semacam apa bikin map kira kira apa sih yang jadi Gp temen temen tadi mungkin ada yang teman teman berangkat dari kuning terus biasanya komunikasinya orang orang kuning udah cukup oke, tinggal di develop bagian yang Hai birunya nih ketika ketemu
+
+[Yogi Arief Putra] 14:17:13
+statistik ketika ketemu proses data yang banyak dan lain lain biasanya perlu waktu ketika tahu jadi gampangnya kayak bikin map aja apa yang menjadi hard skill yang dibutuhkan people skillsnya apa terus mulainya dari target pekerjaan ini dulu jadi dari target pekerjaan mau jadi apa data sintesis yang kayak gimana dibutuhkan hardcopy seperti apa terus saat ini teman teman udah
+
+[Yogi Arief Putra] 14:17:39
+punya apa teman, teman, reflek dulu tadi terus nanti kira kira project magang social project apapun yang bisa dilakukan untuk bisa closing the gapnya tadi gitu.
+
+[Yogi Arief Putra] 14:17:52
+Ini yang penting jadinya dan ketika closing the Gap. Pada akhirnya sebenarnya approach yang biasanya dipakai di industri dan bisa dilakukan di personal adalah tujuh puluh dua ribu sepuluh tujuh puluh memang teman teman harus dihadapkan dengan project yang real study case gitu ya kalau dua puluh persennya mungkin lebih ke mentoring gitu ketika teman teman dapat mentor dari misalnya kayak mas
+
+[Yogi Arief Putra] 14:18:14
+Alif kayak gini. Tanya jawab nah itu dapat mentoring sepuluh persen learning lah daring di Youtube.
+
+[Yogi Arief Putra] 14:18:19
+Diapa. Jadi jangan kebalik biasanya kita menghabiskan banyak waktu di webinar dan segala macem.
+
+[Yogi Arief Putra] 14:18:26
+Padahal itu sebenarnya cuma efektif mungkin sekitar sepuluh persen cuman bagus untuk oke, tahu kita nih seperti apa lakuin.
+
+[Yogi Arief Putra] 14:18:34
+Tapi pada akhirnya temen temen paling cepat melakukannya adalah dengan project tadi dan ditambah dengan mentoring jadi ini bisa dipakai banget untuk skill billingnya teman teman dan menariknya yang gue suka dari angka gua ngambil sertification dan bootcamp juga di bidang ecer salah satunya di ecer data analitik juga sertification atau bootcamp itu biasanya meng
+
+[Yogi Arief Putra] 14:18:55
+cover. Banyak hal karena kita dikasih project juga kita dapat guru yang oke juga kalau itu lengkap satu lengkap invest ke sana.
+
+[Yogi Arief Putra] 14:19:07
+Itu jadinya jauh lebih mining full karena kita dapat tiga tiganya ntar tinggal tambah oke project project seperti apa yang bisa kita lakuin bang kalau data analtics kemarin gue sempet explore gitu data data data ecer gua mau bachmark satu satu data related dengan revenue per employee nah itu ternyata bisa
+
+[Yogi Arief Putra] 14:19:28
+ditarik dari data data yang ada dari pemerintah? Gitu loh. Mungkin harus diambil dari beberapa source tapi itu ternyata open jadi kalau teman teman ada punya satu keinginan untuk explore project sendiri even belum dapat magang atau apa sebenarnya gampang aja untuk untuk bahas analisis tertentu itu tinggal ngambil dari beberapa soft di yang terbuka dari data pemerintah di terus juga
+
+[Yogi Arief Putra] 14:19:55
+ekspor dan lain lain tuh nah itu itu biasanya gua diskusinya sama chat juga tuh apa sih sebenarnya data yang gue bisa explore untuk mendapatkan data yang nggak available secara di industri jadi eksploratif itu penting jadinya ketika kita mau menjadi seorang data analitik juga atau data analisis gitu.
+
+[Yogi Arief Putra] 14:20:17
+Nah, baru yang terakhir yang terakhir pelajaran ketiganya adalah bangun portofolio dan B so good jago orang tuh nggak akan nggak akan meneglek atau enggak akan menganggap lu remeh dan enggak nyari lu gitu.
+
+[Yogi Arief Putra] 14:20:32
+Kalau enggak tahu jagonya di bidang apa coba cari dulu jadi ketika nanti temen temen tahu atau misalnya ada orang yang nyari dia akan tahu bahwa lu yang jago di bidang itu dan gua pengen kerja sama barang lu baik dalam bentuk project ataupun misalnya magang ataupun pekerjaan nah itu pentingnya juga untuk sangat jago supaya orang juga aware gitu bahwa kita memang punya kemampuan yang
+
+[Yogi Arief Putra] 14:20:57
+unik. Nah nyambung kayak yang unik ini gua gua suka banget. Mungkin temen temen juga pernah denger katanya ketika kita ngomongin kerjaan sedikit lebih sedikit lebih beda itu lebih baik dibandingkan sedikit lebih baik semua orang kayak udah udah jago gitu.
+
+[Yogi Arief Putra] 14:21:15
+Tentang data analitik semua orang udah udah banyak yang bisa gitu biarpun di levelnya pasti berbeda beda udah banyak gitu yang yang bisa kena resortnya udah bisa tertepin ada yang apa namanya bisa udah banyak bootcamp ini teman teman perlu level up satu lagi jadi ketika start belum punya kemampuan data analitik oke, belum tahu perlu step data analitik tapi jangan berhenti sampai disana.
+
+[Yogi Arief Putra] 14:21:40
+Jadi perlu dicari juga value yang berbeda atau lebih baiknya itu seperti apa atau lebih bedanya itu seperti apa bisa lebih baik dan bisa stand out karena sekarang tuh memang harus stand up supaya ecer itu juga bisa melihat teman teman tuh tak punya kemampuan data analitik tapi juga punya kemampuan A B, C D, E.
+
+[Yogi Arief Putra] 14:22:01
+Hai nah, ini ini mungkin sebagai framework yang bisa dipakai ada yang namanya sekarang tuh ishap tishap sama Mcd jadi kalau easy shape di data analitik saya udah satu dalem gitu udah itu aja itu satu kalau tisep oke database secara keseluruhan jadi bisa diajak ngobrol apa aja tapi memang alih alihannya data
+
+[Yogi Arief Putra] 14:22:26
+analitik. Tapi kalau yang lebih bagus adalah Mship nih yang sekarang makin dicari sama perusahaan teman teman jago di beberapa bidang misalnya di Big data tapi juga marketing juga punya project project banyak enam marketing bisa juga jadi content creator dalem gitu.
+
+[Yogi Arief Putra] 14:22:43
+Tapi diajak ngobrol macem macem juga bisa. Nah ini yang akan jauh lebih bisa membedakan kita dibandingkan orang lain.
+
+[Yogi Arief Putra] 14:22:52
+Jadi kita mhi supaya apa bisa mencapai hal yang memang bagus dan berbeda stand out dimulai dari data analytics tadi kalau teman teman mungkin di itu semua orang bisa lah atau dengan dengan proses yang memang bisa dijalani dan segala macam semua orang bisa hanya sedikit orang yang memang pada akhirnya bisa standard ada di sini itu yang kita coba kejar sebagai standarnya kita ketika nyari kerja ataupun berkarya
+
+[Yogi Arief Putra] 14:23:20
+nantinya.
+
+[Yogi Arief Putra] 14:23:22
+Jadi misalnya contoh tadi. Ini kita ambil contoh mas alif aja Nego, gua seneng kalau kalau sebagai ecer ketemu mas Alif, itu adalah apa dia bukan orang data saintis saja tapi dia juga bisa punya skill atau punya skill tentang ngajar dia punya skill tentang dia punya pengalaman dan segala macam nah, ini yang jadinya membedakan kalau kita ngomongin cuma data science atau
+
+[Yogi Arief Putra] 14:23:45
+data Science saja kayak semua orang ada tapi ketika kita ngomongin orang yang bisa ngajar terus punya data science skill itu susah nyarinya gitu.
+
+[Yogi Arief Putra] 14:23:57
+Ini pengalaman gua kayak dua tahun tiga tahun lalu susah banget nyari orang yang memang komunikasinya.
+
+[Yogi Arief Putra] 14:24:02
+Oke, itu gitu untuk bisa menceritakan tadi serapi dan influencing sih mas alif tadi gitu ngedalemin gitu dua jam terbang ngajar yang oke banget di berbagai bootcamp dan webinar gitu.
+
+[Yogi Arief Putra] 14:24:17
+Tapi juga skill data science nya juga oke gitu. Teman teman bisa combine dengan tadi.
+
+[Yogi Arief Putra] 14:24:22
+Misalnya dengan sell atau dengan konten creator atau dengan skill ngajar tadi supaya lebih stand out tergantung teman teman mau prefer ke arah mana nih?
+
+[Yogi Arief Putra] 14:24:33
+Gitu. Jadi nggak cuma data saya jangan stop disitu doang tapi juga nanti kedepannya perlu di kembangin hal hal yang membuat teman teman unik sambil jalan nah ini tips cari kerja mungkin nanti enggak begitu relevan.
+
+[Yogi Arief Putra] 14:24:48
+Sekarang. Tapi intinya biasanya yang pada akhirnya impact full biasanya kebalik gitu. Antara company skillnya apa dan segala macam diri kita kayak gimana ini kadang nyari kerjaan part yang pr gitu karena ternyata banyak temen temen yang mulai nyari kerjanya itu kebalik sama bagaimana perusahaan tuh nyari kerja atau nyari pegawai biasanya biasanya memang pada akhirnya kalau ke teman teman nyarinya pasti dari
+
+[Yogi Arief Putra] 14:25:17
+portofolio Ke referal baru. Nah, sementara gitu. Paling paling mudah dilakukan sama company apalagi kalau hiringnya banyak itu pasti nyari referal dulu biarpun jalan semua nya pe pegawai yang sudah ada kenapa?
+
+[Yogi Arief Putra] 14:25:34
+Bukan karena ordal atau apa karena pada akhirnya kita percaya bahwa kalau misalnya ada employee yang bagus, terus dia akan merekomendasikan orang orang yang bagus juga deh.
+
+[Yogi Arief Putra] 14:25:44
+Enggak mungkin akan apa namanya ngasih rekomendasi orang yang tidak oke, jadi referal ini penting. Apalagi kalau memang dia top performer ataupun oke banget.
+
+[Yogi Arief Putra] 14:25:55
+Di perusahaannya. Sebisa mungkin kita punya koneksi mereka baru masuk ke Linkin dan order job portal.
+
+[Yogi Arief Putra] 14:26:03
+Nah, ini yang biasanya rada kebalik, tapi bisa dijalanin bareng bukan berarti linkin dan portal lain juga nggak penting.
+
+[Yogi Arief Putra] 14:26:09
+Tapi effort nya teman teman perlu juga untuk punya koneksi ke target target Company yang teman teman inginkan.
+
+[Yogi Arief Putra] 14:26:16
+Apalagi kalau mereka buka misalnya volunteery atau ada bisa ada project bareng gitu.
+
+[Yogi Arief Putra] 14:26:21
+Mungkin mungkin butuh waktu untuk punya referal seperti ini untuk bisa teman teman di refer tapi at least ini yang bisa teman teman juga fokusin yang dulu gue sempat lakukan adalah gue biasanya ngasih offering oke gue bantuin lu gue punya skill ini nggak usah bayar dulu oke, kita kerja sebulan dua puluh tiga bulan pengalaman dari lo dan segala macam biasanya itu yang enggak mungkin gak semuanya workshop tapi biasanya
+
+[Yogi Arief Putra] 14:26:48
+kalau memang jalannya cocok tuh bisa dikasih kesempatan memang jadinya kita menukar waktu kita nggak langsung dengan uang, mungkin tapi dengan pengalaman tadi dan referalnya tadi dan itu jauh lebih muning Mining Full ketika Jangka yang lebih panjang mungkin sekitar sekilas tentang cari kerja Hai, nah, jadi kita rekap sedikit no yourself tentang aktivitas personality di isc merak kuning ijo
+
+[Yogi Arief Putra] 14:27:12
+biro skill building people skill di Communication ditambah dengan atau tadi yang fundamental adalah basic science tadi hai terus yang terakhir adalah biso good supaya orang orang tuh enggak ignor kita dengan m shop data science yang tadi mungkin sedikit lebih beda lebih baik oke nah kebetulan gue juga lagi bikin konten mungkin baru enggak banyak itu di
+
+[123220162_Rifqi Arief Nur Rasyid] 14:27:18
+Simak Videonya.
+
+[Yogi Arief Putra] 14:27:40
+tiktok masih growing cuman gue lagi coba sambil meningkatkan lebih jauh tentang skill komunikasinya juga dan bangun portofolio dan plus nanti ada e book yang kita juga mungkin relevan buat teman teman untuk teknik nyari kerja lah ntar gue akan menjelaskan mungkin kita masuk ke Qne dulu kali mbak Vanya dari aku sih itu aja dulu.
+
+[Vanya Chairunissa] 14:28:07
+Oke, ini menarik banget jadi tadi buat teman teman semua udah dikasih tahu gitu. Ti tips and triknya nih data analisis apa aja terus dari kayu juga udah dikasih tahu gimana sih caranya biar bisa berkarya sebagai data analis nah buat teman teman nih mungkin yang bisa mok yang punya pertanyaan boleh banget langsung ditanyain mungkin ada yang mau langsung nanya langsung gitu.
+
+[Vanya Chairunissa] 14:28:31
+Boleh boleh riset nanti aku boleh aku akan persilahkan gitu untuk langsung atau mungkin buat temen temen yang malu atau lagi nggak possible untuk selain microphone boleh banget untuk pertanyaannya ditulis karena akan ada Hai hadiah menarik buat teman teman yang punya pertanyaan menarik oke, nih ada Aditya yang mau nanya boleh silahkan kak, aditya.
+
+[Aditya] 14:28:51
+Oke thank you mbak Vanya atas kesempatannya mungkin sebelumnya. Izinkan memperkenalkan diri dulu.
+
+[Aditya] 14:28:58
+Halo mbak Vanya Mas Alif. Kebetulan gue sekarang merupakan mahasiswa dari prodi system formasi yang kebetulan itu tertarik di bidang bisnis analis bisnis.
+
+[Aditya] 14:29:14
+Intelijen nah yang ada hubungannya dengan data analis mungkin ini lebih ke mas alif dulu kali pertama pertanyaan pertama untuk mas Alif pada saat mas Alif ngerintis boleh nggak sih mas kayak ceritain gitu kalau dari pengalamannya mas alif waktu itu pada saat ngerintis di bidang ini itu belajarnya apa apa dulu ataupun learning phnya itu bagaimana dan
+
+[Aditya] 14:29:40
+segala macamnya dan mungkin tips entrif lah mas buat gua sebagai lagi merintis juga nih mas mudah mudahan bisa juga lagi posisinya sekarang sekarang kemudian untuk pertanyaan kedua itu buat mas Yogi tadi kan Mas sempat sebutin mas mengenai bentuk bentuk tadi tuh ada ada yang ada yang m dulu yang gua tangkap itu adalah satu skill gini jadi ada dua orang satu orang itu hanya fokus di skill tersebut satunya
+
+[Aditya] 14:30:13
+lagi bisa banyak tetapi cuma dasar dasarnya. Nah, sementara kalau misalnya yang tadi Mas bilang m shape itu adalah orang yang bisa banyak tetapi dijual expert dalam bidang itu nah, masalahnya bukan masalah tetapi itu sesuatu yang sulit nggak mungkin apa tidak menutup kemungkinan memang tetapi kan itu yang sulit.
+
+[Aditya] 14:30:36
+Juga nah menurut mas nih buat orang orang yang masih M save tapi masih di tahap awal ataupun bisa banyak ngerti banyak tapi hanya sekedar permukaan permukaannya saja.
+
+[Aditya] 14:30:47
+Nah itu kayak gimana Mas, mungkin itu aja dulu thank you bapaknya atas kesempatannya.
+
+[Vanya Chairunissa] 14:30:53
+Oke, mungkin boleh langsung dijawab Kak.
+
+[Alif Fikri] 14:30:57
+Oke, pertanyaan yang pertama dulu. Thank you addit. Pertanyaannya untuk tadi kan merintis karir di data di bagian data lah tapi bisnis intelijen bisa analis itu sebenarnya terms terms.
+
+[Alif Fikri] 14:31:15
+Saja jadi mungkin nanti ada beberapa fokus yang berbeda kayak gitu. Ada analis segala macam, tapi memang fungsi utamanya itu adalah menganalisis data atau mencari informasi dari data kayak gitu.
+
+[Alif Fikri] 14:31:27
+Nah untuk awalnya jadi aku sendiri ini mulai merintis karir itu tahun dua ribu delapan belas itu.
+
+[Alif Fikri] 14:31:34
+Jaman jaman data analis mungkin belum ngetren sekarang terus aku juga belum tahu informasinya sebanyak apa tentang data analisis cuman berdasarkan apa yang dipelajari di kuliah aja ini yang pertama dipelajari itu banyaknya lebih ke programming python untuk yang kedua itu statistiknya itu yang lumayan penting jadi programming itu dulu dulu memang pas lagi di
+
+[Alif Fikri] 14:31:58
+jurusan kuliah itu lumayan banyak dipakai jadi untuk dasar. Dasar programming itu udah lumayan basic jadi untuk melakukan membaca program atau melakukan hal yang sama mereplikasi itu udah bisa kayak gitu.
+
+[Alif Fikri] 14:32:12
+Nah kalau buat adit nia yang tadi information teknologi teknik identik sistem informasi nah itu kalau itu coding programming udah biasa lah udah dipelajari pas kuliah kalau kalau statistiknya gimana tuh.
+
+[Aditya] 14:32:20
+Sistem Informasi Informasi sistemnya.
+
+[Aditya] 14:32:28
+Betul betul.
+
+[Aditya] 14:32:31
+Statistiknya kita. Sejauh ini masih di dasar kebetulan gue juga masih tahun ini on the way tahun kedua mas.
+
+[Alif Fikri] 14:32:39
+Hai, oke oke.
+
+[Aditya] 14:32:41
+Tetapi yang gua tangkap dari kemarin kita itu kalau di prodi dijelaskan bahwa kita memang bukan fokus terhadap psikoding ataupun teknologinya.
+
+[Alif Fikri] 14:32:49
+Uh. Uh.
+
+[Aditya] 14:32:50
+Tetapi bagaimana caranya kita nanti di ujungnya itu pakai teknologi ini untuk diaplikasikan kepada sebuah bisnis ataupun sebuah perusahaan.
+
+[Alif Fikri] 14:32:57
+Hmm oke oke sebenarnya apa yang di apa akan pelajari sebenarnya penting juga sih kayak gitu dan memang sebenarnya tugasnya teknologi itu dan statistik sebenarnya dalam membantu si bisnisnya merintis karir karena dulu beda banget kondisinya.
+
+[Alif Fikri] 14:33:14
+Dan dan dengan sekarang karena sekarang kan informasi tentang data sudah banyak banget jadi untuk awal awal tuh Hai, pas banget belajar mungkin di Sql sama statistik sama python kayak gitu.
+
+[Alif Fikri] 14:33:30
+Itu untuk dasar teks skills hard skillnya atau kayak tulus toolsnya kayak gitu.
+
+[Alif Fikri] 14:33:37
+Kalau bisa dibilang Untuk Data Analisis intelijen itu delapan puluh persen sembilan puluh persen pekerjaannya itu banyaknya dianalisis visualisasi itu pakai Sql tabloud dashboarding itu pakai locker segala macam itu bisa nah sisanya itu mungkin nice to have kayak python itu nice to have kalau bisa nanti jadi bisa banyak melakukan hal
+
+[Alif Fikri] 14:33:59
+analisis prediksi segala macam itu untuk awal awal mungkin bisa pelajari Sql.
+
+[Alif Fikri] 14:34:08
+Sama si itu itulah untuk tools tools sprite sheet dan dashboarding itu sisanya mungkin tambahan tambahan python itu untuk ngebedain kita sama data analis yang lain.
+
+[Alif Fikri] 14:34:21
+Kayak gitu yaitu bisnis analis yang lain itu sih untuk awal awal merintis karir, jangan lupa bikin portofolio kayak yang nyuci bilang tadi portofolio itu penting kalian bisa cari dari google bisa belajar bisa bikin dashboard itu luker studio itu gratis re big query sql itu juga gratis untuk kalian awal awal jadi kalian bisa bikin
+
+[Alif Fikri] 14:34:42
+analisis bikin dashboard. Dari sana. Kalau dulu pas interview beberapa orang untuk posisi data analis entah intern atau entah fresh grade yang dicari yang paling enak itu adalah kalau yang di interviewnya itu punya portofolio oke kalau misalnya kita nggak ada tes nggak nggak ada tes atau kayak tes itu sedikit udah dijelasin segala macam yang paling enak tuh
+
+[Alif Fikri] 14:35:09
+portofolio. Jadi kita bisa nilai nih ini orang pengen ga sih gimana orang ini nggak punya skill analisisnya terus gimana cara dia menjawab, pertanyaannya Hai apa terus data yang disediakan itu kan kadang available in di internetnya kadang kita bisa copy paste punya orang kita bisa lihat punya orang tapi yang paling penting adalah kita bisa menjelaskan kenapa kita mengambil keputusan analisis
+
+[Alif Fikri] 14:35:34
+tersebut. Jadi copy paste itu gampang lewat chat Gpt bisa Coding bisa pakai Cctv nanya segala macam analisis data ini bisa dianalisis pakai Cgb bisa tapi kalian harus tahu kenapa ini dianalisis tujuannya buat apa kenapa mengambil keputusan analisis seperti itu harus bisa dijelaskan menurut berunut nanti ketika ditanya kenapa analisa begini
+
+[Alif Fikri] 14:35:57
+kalian bisa jawab karena begini gini kayak gitu. Sih itu yang paling penting di awal kayak gitu. Jadi portofolio nanti kita bisa nilai segala macam kalau kalian jelas portofolio kalian punya banyak portofolionya dan kalian punya satu project di portofolio yang pengen ditunjukin itu jadi suatu nilai plus ketika Hai mau mencoba memulai karir
+
+[Alif Fikri] 14:36:18
+di data analisis kayak gitu. Paling itu aja sih mungkin kayogi silahkan.
+
+[Yogi Arief Putra] 14:36:23
+Thank you pertanyaan mas Adit seru banget pertanyaan dan mungkin nambahin sedikit untuk yang mulai awal karet dulu sebelum gua jawab pertanyaan kedua, menurut gua, cara tercepat untuk belajar salah satunya adalah mulai dari belajar yang terstruktur ketika terstruktur kan lu bisa lihat dari berbagai resort apa tadi cgbt di youtube juga mungkin ada yang terstruktur dan lain lain cuman kalau memang mau lebih apa
+
+[Yogi Arief Putra] 14:36:48
+valid dan memang lebih terpercaya. Banyak lah misalnya brand boot game, salah satunya yang kayak halte itu udah dapat mentornya udah dapet projectnya jadi memang udah proven secara strukturnya tadi kalaupun memang memulai explore dulu dari yang ekornya juga ada tapi kalau misalnya mau yang oke, mungkin invest lebih lebih besar itu akan jauh lebih mining full
+
+[Yogi Arief Putra] 14:37:13
+gitu jadi tergantung nih. Lo akan mulai dari mana untuk melengkapi apa yang udah lu mungkin udah cari gitu di online di via Youtube di tiktok atau apa cuman biasanya nggak bisa berhenti sampai situ aja untuk sampai di level jago lah kira kira gitu nah menjawab pmshap tadi yang pertama gua cukup ter trigger ketika lu bilang mental blocking atau apa beneran dan itu
+
+[Yogi Arief Putra] 14:37:36
+reality nya untuk bisa mencapai Mcd susah. Makanya butuh waktu dan bagusnya lu mulai dari tingkat dua sekarang terus lu udah mulai punya mindset kayak tadi lu punya banyak waktu untuk kesana tips dari gua yang pertama kita ngomongin kerja kita kita ngomongin kerja tuh banyak banyak berdoa karena banyak orang sumpah banyak orang yang pengalamannya banyak gitu tapi jalurnya memang belum dapat aja secara
+
+[Yogi Arief Putra] 14:38:03
+rezekinya itu banyak banget dapat kerjaan biarpun effort untuk nyari kerjanya tidak besar.
+
+[Yogi Arief Putra] 14:38:09
+Jadi doa itu menurut gue udah nyari kerja tuh udah kenyang tergantung loh dikasihnya kayak gimana oke, itu yang pertama jadi menurut gua itu dulu baru yang kedua menurut gua sekarang dengan m tadinya dulu mungkin orang ishap atau cuman minus gitu yang satu spesialis tapi dengan bantuan banyak tadi satu doa yang kedua sekarang teknologi kecacatan mempercepat untuk pelajaran ini bisa diserap secara
+
+[Yogi Arief Putra] 14:38:40
+teknis saran saya spesifik buat lu sekarang udah punya sistem informasi, terus lu mungkin punya tahu mau jadi bisnis intelijen dulu mumpung lo masih punya waktu kayak dua tahun tiga tahun lagi.
+
+[Yogi Arief Putra] 14:38:54
+Oke, lu mulai dari sistem informasi udah dapat skillnya do your best di apa namanya di kampus lock gitu.
+
+[Yogi Arief Putra] 14:39:04
+Satu yang kedua adalah misalnya data analitik tadi atau data scientist lo dalemin juga udah mulai dari dua itu ditambah loss dari bisnisnya karena bisnis intelijen kan perlu bisnis yang sangat kuat.
+
+[Yogi Arief Putra] 14:39:15
+Ngobrol sama Orang Orang Dari bisnis dan lain lain. Nah, tiga itu difokusin didalamin lu lihat oke, lu cocok atau enggak kalau cocok dalam inter terus terusan cari project project mudah mudahan itu bisa jadi apa salah satu hal yang membantu lo lah atau trigger supaya rezekinya itu datang ke lo gitu karena lu siap rezeki itu akan datang sendiri tapi kalau belum siap rezekinya akan
+
+[Yogi Arief Putra] 14:39:39
+datang mungkin tipsnya itu mudah mudahan bisa menjawab Mas Adit ya?
+
+[Vanya Chairunissa] 14:39:46
+Oke thank you kak yogi dan gak Alif nih semoga kak. Adit pertanyaannya terjawab. Oke ini udah ada beberapa lagi yang nanya mungkin Hai lanjut aja.
+
+[Yogi Arief Putra] 14:39:54
+Kita langsung lanjut aja nggak usah dibacain kalau kita kita bacain bareng bareng. Biar lebih jelas siapanya ini kan ada dari Habib bener.
+
+[Vanya Chairunissa] 14:40:00
+Boleh boleh boleh mungkin yang selanjutnya betul betul.
+
+[Yogi Arief Putra] 14:40:07
+Dari Habib apa yang membuat ejaan Notice Kandidat dari Libur lamaran pekerja yang pertama tadi apa apa yang gini?
+
+[Yogi Arief Putra] 14:40:13
+Yang pertama adalah Basic Next atau basic skillnya dapat dulu. Enggak misalnya gue nyari data science yang go cari adalah orang yang punya kemampuan tadi misalnya Sql tablo analisis projectnya apa dulu tapi itu aja nggak cukup karena banyak orang yang punya yang membedakan adalah apa eding value yang unik yang mungkin itu bisa berkontribut untuk
+
+[Yogi Arief Putra] 14:40:36
+perusahaan di gw contoh ketika lu bisa ngajar Ecer akan melihat bahwa kayaknya gua akan bisa optimize lo enggak cuman jadi data analitik tapi juga bisa ngajarin ketika misalnya nanti ada yang junior baru masuk atau ada inten yang baru masuk di sana lu bisa ngajar juga karena lu punya pengalaman di sana atau atlet lu bisa akan dengan mudah untuk
+
+[Yogi Arief Putra] 14:40:58
+berkolaborasi dengan orang orang yang nggak ngerti tentang data perusahaan ini orang orang belum segitu paham data kalau lu cuma punya data scientist dibandingkan orang yang data scientist plus bisa ngajar itu akan jauh lebih Hai sorry jauh akan lebih inside full atau jauh akan lebih gua consider sebagai seorang ajar jadi temuin tadi apa yang memang unik dari
+
+[Yogi Arief Putra] 14:41:25
+lo dan memang lo punya dan itu bisa dijual kalau di kalau gue biasa ngasih advice ke temen temen gunain Summary dari Cv untuk menunjukkan apa yang contohnya kalau kita kasih struktur strukturnya adalah lu siapa mungkin gini, lulusan dari sistem informasi satu terus kill lo apa skillnya adalah kemampuan python apa namanya analisis dan lain
+
+[Yogi Arief Putra] 14:41:51
+lain terus lu tambahin satu lagi ketika disamar rutin satu lagi skill yang memang nggak semua orang punya contoh, misalnya komunikasi.
+
+[Yogi Arief Putra] 14:41:58
+Contoh, misalnya kemampuan presentasi itu ditaruh aja di sana jadi eding value ketika perusahaan itu cocok sama lo dia akan melihat bahwa lu punya value yang berbeda dibandingkan yang lain dan itu akan sangat sangat berbeda lalu masuk ke Ecer justru kemampuan analitik atau logicnya goyang ga semua orang punya Hai di ecer gitu dalam arti yang terstruktur dan lain gue dapet di
+
+[Yogi Arief Putra] 14:42:22
+astronomi justru itu jadi apa sesuatu yang gue jual untuk bisa tadi notis atau sedikit lebih beda akhirnya project project gua jadi ecer data analitik atau apa di awal awal itu gitu.
+
+[Yogi Arief Putra] 14:42:34
+Karena memang punya paling nggak background lah biarpun nggak jago jago banget tapi apa namanya punya background logic yang disana jadi explore ke sana.
+
+[Vanya Chairunissa] 14:42:44
+Oke thank You Kayak Gini menarik dari astronomi ke Hr seribu teman temannya mungkin tadi nanya bisa ngasih gua switch karir ke data analis atau ke yang lainnya gitu.
+
+[Vanya Chairunissa] 14:42:54
+Karena aku juga dari Fisika ke Brand ke marketing jauh banget tapi semuanya bisa karena itu jadi soft skill juga sih.
+
+[Yogi Arief Putra] 14:42:55
+Bisa Semangat.
+
+[Vanya Chairunissa] 14:43:04
+Beberapa hal itu yang mungkin yang mungkin hasilnya kita beda banget kurang lebih dapat dari yang pernah kita pelajari. Oke next question dari kita Uyap naik Bayu izin bertanya di dunia data science banyaknya skill yang dibutuhkan.
+
+[Yogi Arief Putra] 14:43:08
+Oke.
+
+[Vanya Chairunissa] 14:43:19
+Seorang data anal data scientist. Bagaimana cara kita agar bisa fokus mengembangkan skill utama kita memiliki skill yang lainnya diantaranya juga mungkin boleh dijawab nih kak dari kak Bayu mungkin kayak gitu kak Alif mojok.
+
+[Alif Fikri] 14:43:33
+Oke untuk dunia, Data Science. Banyak banyak skill yang dibutuhkan. Benar bagaimana cara kita agar bisa fokus mengembangkan skill utama kita.
+
+[Alif Fikri] 14:43:42
+Tapi kita juga bisa memiliki skill yang lainnya. Diantaranya juga untuk yang ini mungkin cari tahu dulu mana yang paling kita suka dan paling kita pengen mau kembangin kayak gitu karena memang kita tahu banyak banget nih skillnya yang dibutuhkan tapi kalau misalnya ternyata kita kurang suka jadinya nanti belajarnya juga nggak optimal kalau misalnya kita suka misalnya bikin visualisasi atau bikin atau ngoding itu
+
+[Alif Fikri] 14:44:11
+difokusin aja dulu ke sana kayak gitu nanti mulai pelan. Pelan. Kita udah tahu nih basic basic basic ininya kayak gitu dan kita baru mau coba nih mengusahakan hal hal yang tidak kita suka kayak gitu skill skill utama tapi enggak yang kita suka mungkin bukan kita enggak suka tapi kita enggak terlalu suka dibandingkan skill yang itu kayak gitu jadi memang pelan pelan
+
+[Alif Fikri] 14:44:34
+kadang memang dalam programming sendiri kita nanti dalam proses menganalisis data kita sambil atau visualisasi.
+
+[Alif Fikri] 14:44:41
+Data itu kita nggak mau nggak mau misalnya coba harus pakai program sesuatu tertentu. Jadi mau nggak mau kita memang harus belajar kayak gitu.
+
+[Alif Fikri] 14:44:51
+Jadi memang nggak semua hal langsung bisa didapatkan dalam suatu waktu. Tapi kalau misalnya memang ada kesempatan buat belajarnya.
+
+[Alif Fikri] 14:45:01
+Hai ada kesempatan buat mencobanya, kita harus memulai coba kayak gitu sih jadi memang prosesnya gak cepet prosesnya pelan pelan.
+
+[Alif Fikri] 14:45:12
+Tapi kalau aku boleh nyaranin mulai mulai dulu dari yang kalian suka kayak gitu. Biar supaya hasil lebih optimal.
+
+[Alif Fikri] 14:45:18
+Learning prosesnya. Jadi lebih cepat lebih baik kayak gitu sih.
+
+[Vanya Chairunissa] 14:45:26
+Oke hobbit helps dan Hobbit Answers the question kak.
+
+[Vanya Chairunissa] 14:45:32
+Nah ini ada pertanyaan lagi, mungkin langsung aja biar biar kita bisa semua semua pertanyaannya ada dari ke azhar Fikri ketika membangun struktur data setelah mengetahui suatu masalah pekerjaan itu jatuh pada all.
+
+[Vanya Chairunissa] 14:45:44
+Apa mungkin mungkin tadi termasuk dalam partai yang awal itu kak?
+
+[Alif Fikri] 14:45:49
+Hai kalau untuk pekerjaan dari Azar Fikri. Pertanyaannya, struktur data struktur data yang dimaksud apa tapi kalau aku boleh asumsikan disini.
+
+[Alif Fikri] 14:45:58
+Kalau misalnya kita tahu suatu masalah analisis apa yang harus kita lakukan struktur analisisnya seperti apa itu dari data analisis kadang kalau misalnya kita lagi mentok atau bahkan kita udah punya terus kita pengen tambah tambahan apa analisis itu kita bisa sambil diskusi juga entah sama kolega atau sama tim bisnisnya atau tim marketingnya itu yang sering aku lakukan jadi aku misalnya ngasih
+
+[Alif Fikri] 14:46:27
+proposal pertanyaan ini yang mau kita analisis, apakah kalian setuju? Atau kalian pengen ada tambahan tambahannya itu kalau misalnya struktur analisisnya kalau udah ada masalah terus struktur data yang harus dibuat seperti apa misalnya data tabelnya kayak gimana dan lain lain itu di data engineer biasanya tapi kadang kalau di tempat aku sendiri itu data analis juga harus bisa membuat struktur datanya seperti apa
+
+[Alif Fikri] 14:46:52
+yang dimau. Contohnya, misalnya kalau misalnya user membuka page ini apa aja sih hal yang harus di track.
+
+[Alif Fikri] 14:46:58
+Hai ada tak analis yang melakukannya kayak gitu. Oke, mudah mudahan menjawab.
+
+[Vanya Chairunissa] 14:47:04
+Oke, semoga terjawab untuk pertanyaannya nih. Oke, ada lagi pertanyaannya dari kak paul izin bertanya kak daerah ini integrasi ai terhadap software itu sendiri sudah semakin marak dan diyakini akan menjadi hal yang dinovasi di masa depan dengan kondisi ini apakah profesi data saintistis atau analisis itu akan semakin menipis dan lebih
+
+[Vanya Chairunissa] 14:47:25
+terspesialisasi terus yang kedua dari kondisi itu sendiri. Apakah kita harus lebih meningkatkan individual skills.
+
+[Vanya Chairunissa] 14:47:34
+Mungkin ada. Ayo kita mulai.
+
+[Yogi Arief Putra] 14:47:34
+Mungkin mungkin mungkin gue jawab yang pertama profesi data science dan analisis akan menipis mungkin mungkin bukan menipis kalau terspesialisasi mungkin karena semua orang bisa mulai banyak bisa dikerjain sama apa chat Gpt ini itu gitu.
+
+[Yogi Arief Putra] 14:47:55
+Tapi percayalah bahwa yang di kompetisinya sekarang yang memang mining full atau akan unik adalah lu bukan di compare sama si C Gpt sendiri.
+
+[Yogi Arief Putra] 14:48:06
+Intinya competitionnya adalah antara lu dengan orang yang Pak data Scientist lalu sebagai data sentis dengan orang yang data sentis juga tapi dia pakai cat Gpt nah itu itu kompetisinya itu kayak gitu.
+
+[Yogi Arief Putra] 14:48:18
+Jadi bukan dengan cat Gpt nya. Tapi dengan orang yang bisa dan terbiasa pakai hal hal yang kayak gitu dengan Ai dan lain lain menurut gua jadinya adalah ketika kita udah tahu lama lama itu mana yang pekerjaan yang memang bisa kita delegasiin ke mesin learning, dan segala macam kita jadi tahu mana yang harus kita fokuskan contoh di beberapa hal atau case tadi kan alif sudah bisa
+
+[Yogi Arief Putra] 14:48:42
+bilang bahwa ada beberapa rekomendasi yang pada akhirnya itu sudah bisa di delegit di Chat Gpt analisisnya sudah bisa keluar.
+
+[Yogi Arief Putra] 14:48:49
+Sendiri nah, kemampuan kita adalah untuk build story yang dibutuhkan. Bagaimana hasil analisis dari cat dipakai untuk menginfluence stakeholdernya kita jadi kita akan lebih fokus kepada bagaimana menggunakan story telling data tadi.
+
+[Yogi Arief Putra] 14:49:02
+Tapi kita harus paham apa yang dilakukan sama Ceddy supaya ketika di challenge ketika diskusi kita tahu nih, sebenarnya yang dilakukan itu kayak gini gini prosesnya nah, itu itu yang jadinya kemampuan harus lebih lebih tinggi tapi ketika kita ngomongin data sentis akan menipis enggak enggak juga karena kebutuhannya masih besar juga nah, tapi terspesialisasi mungkin karena nanti kan makin kompleks nih berarti kan
+
+[Yogi Arief Putra] 14:49:25
+orang orangnya melakukan kayak gimana mungkin nanti akan keluar tuh data sentis yang khusus atau spesifik terusin pemerintahan itu kan mungkin aja tuh karena ntar kayaknya bisa pemerintahan dari sisi misalnya apa namanya kementerian keuangan kementerian Kesehatan, Kementerian Keuangan Kementrian Kesehatan kementerian ini mereka adalah seorang yang memang sudah pernah ngerjain di berbagai kementerian ada juga di bisnis tapi di
+
+[Yogi Arief Putra] 14:49:50
+industri apa misalnya di industri kayak influencer kan di industri ke seperti misalnya kayak ffg atau fast moving gitu.
+
+[Yogi Arief Putra] 14:50:01
+Gitu. Nah itu yang spesifik jadi pasti itu akan muncul tuh makin muncul sekarangpun udah muncul gitu. Memang dia ahlinya di bidang bidang tertentu yang memang sangat sangat unik itu tidak tidak menipiskan justru memperbanyak itu untuk bisa kita lebih spesialis juga tapi juga bisa changing the konteks dengan punya pemahaman yang lebih luas meningkatkan individual skill
+
+[Yogi Arief Putra] 14:50:21
+safe development atau keduanya. Ini jangan jangan terjebak dengan pertanyaan atau menurut gue yang paling kita sering lakukan adalah pertanyaan dan jadi bukan self development soft skill atau hard skill tapi bagaimana gue bisa meningkatkan hard skill dan juga soft skill jadi kita akan lebih kreatif karena banyak kok.
+
+[Yogi Arief Putra] 14:50:41
+Project project yang pada akhirnya bisa menjalankan keduanya barengan tapi kalau kita jarang nanya tentang kayak project apa yang kira kira bisa menggambarkan dan keduanya itu bisa mempraktis keduanya kita akan terjebak di babel tadi.
+
+[Yogi Arief Putra] 14:50:54
+Atau jadi itu sih yang penting mungkin Alif ada tambahan.
+
+[Alif Fikri] 14:50:58
+Hai Hai Hai.
+
+[Vanya Chairunissa] 14:50:58
+Mungkin boleh ditanggapi kak semoga pertanyaannya terjawab, mungkin sambil nunggu kak kak Alif mungkin Kak Alif mau menambahkan juga terkaitnya nih kak.
+
+[Alif Fikri] 14:51:09
+Yang yang sebenarnya. Profesi datanya itu tidak akan menipis karena memang Cet Cp itu kan tools sebenarnya tadi apa yang dibilang Yogi kompetisinya tuh justru antara data Scientist yang Pake dan yang tidak pakai kayak gitu karena kita udah ada tulis kita jangan mau kalah sama tulusnya kayak gitu karena memang tulus itu kan adalah fungsinya adalah membantu kita untuk melakukan
+
+[Alif Fikri] 14:51:34
+analisis atau misalnya mencari inspirasi segala macam tapi kan tools itu tidak bisa menghilangkan apa yang kita punya sekarang kan jadi nggak bisa menggantikan apa yang kita punya sekarang misalnya tulus tulus itu untuk membantu sih jadi kalau misalnya makan makin menipis, justru nggak aku nggak bisa bilang akan makin menipis, mungkin justru nanti rollsnya ganti bukan data data analis tapi lebih kayak
+
+[Alif Fikri] 14:52:02
+orang yang bisa menganalisis. Tapi fokusnya sudah beda. Jadi memang enggak enggak menipis sih karena skill kemampuannya itu tidak akan dimiliki sama mesin yaitu menganalisis data membuat presentasi membuat ini kayak gitu.
+
+[Alif Fikri] 14:52:19
+Tapi dengan adanya tools itu kita jadi terbantu sih harusnya kita jangan mau kalah dengan tulisan yang kayak gitu sih.
+
+[Alif Fikri] 14:52:29
+Nah, tapi yang yang kedua itu justru bener sih kondisi itu harusnya membuat kita meningkatkan individual skill bisa development segala macam karena memang ada tulusnya cara tulisnya kita pakai cara memakai tulus untuk chat gbt misalnya Prom apa sih yang baik pertanyaan apa sih yang baik keuntungan kerugiannya atau misalnya pakai pakai pakai cirgpd deh pakai ai
+
+[Alif Fikri] 14:52:54
+yang lain Llm model yang lain kayak gitu. Itu juga pastikan ada tata cara penggunaannya keuntungannya.
+
+[Alif Fikri] 14:53:02
+Kelebihannya lebih cepat yang mana itu kita harus terus belajar sih kayak gitu mudah mudahan menjawab.
+
+[Vanya Chairunissa] 14:53:11
+Oke benar banget. Jadi sebenarnya Ai itu mungkin bisa jadi penyokong kita buat di karya gitu. Karena pun banyak banget sekarang pekerjaan kerjaannya sebenarnya bisa dipermudah juga dengan Ai gitu.
+
+[Vanya Chairunissa] 14:53:25
+Jadi mungkin buat teman teman yang juga takut gitu. Apakah dengan adanya Ai dan yang lain lainnya akan menjadi susah gitu untuk bisa bekerja atau berkar sebagai data analis tapi sebenarnya tidak yang penting kita tahu aja bagaimana cara utilze the tools kayak gitu.
+
+[Vanya Chairunissa] 14:53:42
+Oke, mungkin karena melihat waktu terbatas. Ini. Pertanyaan terakhirnya dari nada motivasi nidid.
+
+[Vanya Chairunissa] 14:53:51
+Oke, aku nggak tahu namanya siapa nanti mungkin boleh tolong dicatat ke aku untuk nama lengkapnya. Izin bertanya saya tidak salah dalam memilih mungkin ini dari pengalaman selama kuliah di informatika.
+
+[Vanya Chairunissa] 14:54:02
+Jadi kalau setiap hari semester itu kan dapat materi baru dan setiap materi itu mungkin menarik bagi saya dan akhirnya malah bingung mau memilih yang mana.
+
+[Vanya Chairunissa] 14:54:10
+Jadi yang ingin saya tanyakan bagaimana cara bagaimana langkah atau cara untuk memilih dan meyakinkan bahwa salah satu karir ini cocok dengan minat dan kemampuan saya cerita nih dari kayogi sebagai Sr dan juga mungkin dari kak Alif dari bisa tahu di data analis itu awalnya tuh kayak gimana sih kayak kita.
+
+[Yogi Arief Putra] 14:54:31
+Sorry correct gue ada blak blakan sedikit langkahnya memang harus dijalanin kalau ngomongin cocok cocokkan tadi kayak Alf sendiri dijalanin terus cari memang yang disuka yang mana tapi percayalah bahwa ketika nanti kerja terus sudah ngedalamin aja nggak usah sampai sampai kerja deh sampai ke dalamin pasti ada hal hal yang kita nggak suka juga dan memang harus kita jalanin gitu nggak semua pekerjaan mungkin dari
+
+[Yogi Arief Putra] 14:54:55
+seratus persen. Mungkin kalau bagus, ada bisa tujuh puluh tiga puluh antara yang kita suka dan gak suka. Tapi pasti ada part yang kita gak suka di pekerjaan mana cocok ga cocok juga sama kayak gitu.
+
+[Yogi Arief Putra] 14:55:08
+Jadi intinya kalau misalnya masih punya banyak waktu seperti sekarang itu banyak nyoba aja banyak explore memang nanti nemuin sendiri gua pun baru ngerasa dapet cocok gitu poker ini cocok banget pekerjaan itu kayak setelah enam tahun bekerja mungkin ada orang orang yang jauh lebih lama gitu tapi jarang banget yang kayak setahun pertama udah merasa ini adalah karir yang paling cocok buat gua part of the process yang
+
+[Yogi Arief Putra] 14:55:33
+memang harus dijalanin dan reality pada pada akhirnya seperti itu makanya mulainya memang pada akhirnya tadi udah explore terus coba dalemin jangan sampai explore mana yang senang coba bikin project juga coba dalemin sampai ke project juga dapat mentor juga jadi memang benar benar di dalam gitu.
+
+[Yogi Arief Putra] 14:55:53
+Nggak cuma di ujung ujung doang dan kalau memang masih kuliah. Saran gue kuliahnya sih menurut gua diselesaikan.
+
+[Yogi Arief Putra] 14:56:00
+Memang benar benar gitu dengan dengan oke, waktunya yang lain baru dipakai untuk nge develop skill yang lain.
+
+[Yogi Arief Putra] 14:56:06
+Karena menurut gue kuliah itu udah paling penting untuk kita selesai gitu baru nanti kita ngomongin sambil sambil nge develop juga karena kalau misalnya kuliah selesai aja semua semua orang juga kuliahnya selesai gitu.
+
+[Yogi Arief Putra] 14:56:18
+Tapi lu punya skill apa gitu setelah itu develop dan perlu di sambil gitu loh. Pada akhirnya gitu sih dan harusnya dengan teknologi akan jauh lebih memudahkan insyaallah.
+
+[Vanya Chairunissa] 14:56:31
+Betul oke, mungkin dari kak. Alif mau ditanggapi juga kak, gimana sih kayak tahunya mau jadi data scientist gitu.
+
+[Alif Fikri] 14:56:38
+Ga tau sih, tapi mendekat ajaogi sih emang harus nyemplung dulu sama jalanin dulu kayak gitu.
+
+[Alif Fikri] 14:56:42
+Awal memang karena pengen nyari kerja dulu terus yang paling cocok sama skill setnya seperti apa itu data analisisnya gitu udah kita cobain dulu segala macem terus Alhamdulillah dapet hai disana terus makin lama makin selama pekerjaan akhirnya tahu oke ini ini cocok ada hal hal yang kayak gini enggak aspirasinya nanti setelah masuk sini seperti apa kayak gitu.
+
+[Alif Fikri] 14:57:08
+Gitu sih karena memang memang banyak banget. Sih kalau misalnya pas kuliah dulu pengen pengen coba ini banyak hal hal yang menarik pengen kayak gini gini segala macem tapi kan beda sama pas nyari kerja kadang kita pengennya kayak gini tapi ternyata kerjanya nggak pas nih atau nggak dapet dapat akhirnya kita mau coba karir yang ini gak dapet dapet terus akhirnya karena dunia nyata sudah harus datang kayak misalkan mungkin ada yang harus
+
+[Alif Fikri] 14:57:37
+membayar kebutuhannya atau ternyata udah nggak dibayarin sama orang tua harus buru buru cari kerja untuk menghidupi diri sendiri atau bahkan sampai ada yang menghidupi keluarganya.
+
+[Alif Fikri] 14:57:46
+Segala macam kan kita mau nggak mau cari kerja yang kayak nggak cocok sama skill nggak cocok sama yang kita mau tapi mungkin ternyata skillsetnya mirip mirip kayak gitu.
+
+[Alif Fikri] 14:57:54
+Dan dan ternyata pas lebih cocok sama. Yang ini ketika kita jalanin kan itu memang cocok cocokkan sih kayak gitu.
+
+[Alif Fikri] 14:58:04
+Jadi kalau misalnya bingung nanti cobain aja. Dari kalau misalnya mau bikin prioritas dulu kali kita list dulu prioritas mana yang kita suka ini kalau misalnya ternyata ini yang paling pertama itu data analisis coba dulu data analisis mungkin nanti setelah mencari kerja sepuluh pekerjaan sepuluh lamaran pekerjaan seratus kalau misalnya ternyata dapat dapat terus ada limitasi waktu mungkin juga bisa langsung coba ke bagian
+
+[Alif Fikri] 14:58:31
+lain programming atau yang mana yang mau menerima kita gitu sih yang akhirnya pas buat kita dulu baru dari situ kita cari tahu kita understand dulu karena memang yang makan apa bolehlah kita suka sama sesuatu tapi kan perut kita tidak bisa kosong dan dan untuk mengisi perut itu kan?
+
+[Alif Fikri] 14:58:51
+Butuh uang jadi ini memang ini realistik, list speaking.
+
+[Alif Fikri] 14:58:56
+Untuk mencari pekerjaan dan mencari hal yang kita suka tuh. Memang kadang tidak complimentary langsung tapi memang harus dijalanin dulu sampai kita nyari yang pas atau kalau misalnya kita udah tau kita ga cocok di sini kita bisa cari yang lebih cocok dimana segitu sih.
+
+[Yogi Arief Putra] 14:59:10
+Jadi ideal realistis tetap idealistik and goal. Tapi tapi tetap realitanya harus dilihat juga gitu loh.
+
+[Alif Fikri] 14:59:12
+Uh. Uh.
+
+[Alif Fikri] 14:59:17
+Hai, benar.
+
+[Yogi Arief Putra] 14:59:18
+Nggak bisa selalu kita jadi idealis terus dan release release terus juga gak akan kemana mana itu yang perlu di ingat juga itu.
+
+[Vanya Chairunissa] 14:59:26
+Betul betul mungkin aku mau nambahin juga kali kalau kalau dari pengalaman aku aku kan dari fisika yang akhirnya switching Care ke marketing buat aku sebenarnya itu kayak benar sih harus dicobain dulu jadi harus nyemplung dulu dan mungkin kalau misalnya bingung gue mau spesialisasinya dimana spesialis itu better jadi generalis dulu jadi nyobain untuk masuk
+
+[Yogi Arief Putra] 14:59:34
+Wow.
+
+[Vanya Chairunissa] 14:59:48
+ke pul besarnya baru nanti dikerucutin buat nyari tahu ternyata lebih minatnya dimana sih gitu karena sebelum jadi bukan specialist tulis dulu tapi sebelum juga jadi digital marketing spesialis dulu so makin lama makin tahun yang ternyata gue coklat tuh di sini mungkin itu juga bisa nambahin poin po teman teman buat yang lagi nyari nih kira kira mau berkarya dimana sih gitu emang paling
+
+[Vanya Chairunissa] 15:00:11
+bener itu harus dicobain sebelas sih buat ngeliat mana yang paling cocok dan mana yang paling enjoy.
+
+[Vanya Chairunissa] 15:00:17
+Get Hai. Oke, terima kasih banyak buat teman teman yang udah nanya ini pertanyaannya menarik banget dan sangat inside Pak Alif dan Kayogi terimakasih banyak untuk penyampaian materiinya mungkin buat temen temen nanti semisal ada yang mau ditanyain lagi boleh banget kali kan masih ada grupnya tuh jadi nanti bisa langsung diskusi aja di grupnya gitu barangkali ada yang mau tukar
+
+[Vanya Chairunissa] 15:00:38
+pikiran dan segala macam gitu boleh di detail langsung grup whatsappnya. Nah sekali lagi aku mau mengucapkan terima kasih, tapi sebelum kita akhiri ini kita ada penyampaian sedikit mengenai halte gitu dari dari kayoji gitu dan mungkin nanti setelahnya aku juga mau masuk sedikit ngenalin tentang edupan gitu karena kan aku dari edupan aku juga mau ngenalin sedikit nih
+
+[Vanya Chairunissa] 15:01:00
+barangkali ada teman teman yang perlu juga untuk edupannya oke untuk kak Yogi silahkan.
+
+[Yogi Arief Putra] 15:01:04
+Thank you mbak vanya. Oke mungkin ini salah satu hal yang menurut gua secara personal menarik karena gua banyak kerja bareng sama halte Farm untuk ngasih beberapa seri, terutama di sisi hal hal yang soft skill pencarian karya dan lain lain dan menurut gua halte itu bukan sekedar apa bootcamp aja karena menurut gua kalau bootcamp temen temen udah bisa lihat banyak banget ada bootcamp tapi
+
+[Yogi Arief Putra] 15:01:29
+buat gua. Halte itu bener bener menyasar orang orang yang memang mau niat, tapi mungkin belum punya privilege untuk bisa bayar bootcamp itu mahal yang diberikan Healthy adalah bagaimana dia juga atau khawatir ini bisa menyasar ke orang orang yang memang mau belajar asal mau belajar mau konsisten mau di develop gitu.
+
+[Yogi Arief Putra] 15:01:52
+Tapi tapi memang mungkin belum terlalu bisa bayar mahal dan segala macam karena bootcamp di luar juga banyak yang yang mahal itu yang buat gua personal menarik gitu buat kerja bareng sama halim dan teman teman halte karena di healthy juga memang kayak punya job connector kalian cocing ini mungkin umum yang paling menarik buat sekarang adalah sertifikasi bnsp dan lain selain struktur mungkin bisa dibaca
+
+[Yogi Arief Putra] 15:02:20
+sendiri gitu bia biayanya yang terjangkau itu menurut gua jadi poin plus saat ini gitu untuk temen temen yang pengen tapi mungkin masih perlu effort lebih jauh untuk related dengan financial juga gitu.
+
+[Yogi Arief Putra] 15:02:34
+Dan banyak ininya partner partner nya juga dan memang partner partner tidak tidak kecil dan juga ada yang memang kayak Umkm atau apapun itu yang jadi partner untuk kita deliver hour ini talent talent yang lulusan dari halte gitu.
+
+[Yogi Arief Putra] 15:02:50
+Nah eee untuk yang nanti kita akan pilih mungkin Alif satu gua satu vanya kalau boleh milih juga oke, satu orang masing masing akan dapat free voucher class seharga tiga ratus lima puluh dari penanya yang paling menarik mungkin satu satu kita bisa milih siapa penanya terbaiknya nanti teman teman bisa kontak temen temen dari halte klaim voucher kelasnya ini gitu.
+
+[Yogi Arief Putra] 15:03:19
+Alif, boleh milih bapaknya mungkin mau milih kalau buat gua pertanyaan pertama tadi dari siapa gue lupa lagi Aditya Mas Aditya.
+
+[Yogi Arief Putra] 15:03:31
+Menurut gua gua rela apresiate jadi
+

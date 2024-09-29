@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.TextFlow?>
+
+<BorderPane fx:id="paneHome" prefHeight="591.0" prefWidth="1320.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1">
+   <left>
+      <VBox alignment="TOP_CENTER" prefHeight="651.0" prefWidth="280.0" style="-fx-background-color: #FFFF;" styleClass="mainContainer" stylesheets="@style.css" BorderPane.alignment="CENTER">
+         <children>
+            <VBox prefHeight="551.0" prefWidth="262.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <Label alignment="CENTER" prefHeight="70.0" prefWidth="307.0" style="-fx-background-color: #163D82;" styleClass="subHeader" text="Profile Rumah Sakit" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="17.0" />
+                     </font>
+                  </Label>
+                  <Label text="Visi" textFill="#163d82">
+                     <font>
+                        <Font name="System Bold" size="21.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="15.0" right="15.0" top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <TextFlow prefHeight="200.0" prefWidth="200.0" textAlignment="JUSTIFY">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type " textAlignment="JUSTIFY" wrappingWidth="249.275390625">
+                           <font>
+                              <Font size="12.0" />
+                           </font>
+                        </Text>
+                     </children>
+                     <VBox.margin>
+                        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+                     </VBox.margin>
+                  </TextFlow>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <VBox prefHeight="651.0" prefWidth="756.0" spacing="10.0" style="-fx-background-color: #FFFF;" styleClass="mainContainer" BorderPane.alignment="CENTER">
+         <children>
+            <StackPane fx:id="stackGambar" prefHeight="150.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <ImageView fx:id="gambar" fitHeight="276.0" fitWidth="656.0" pickOnBounds="true" preserveRatio="true" styleClass="mainContainer" StackPane.alignment="CENTER">
+                     <image>
+                        <Image url="@../../../icon/banner.png" />
+                     </image>
+                     <StackPane.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </StackPane.margin>
+                  </ImageView>
+               </children>
+               <VBox.margin>
+                  <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+               </VBox.margin>
+            </StackPane>
+            <Label text="Deksripsi Informasi" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets left="30.0" />
+               </VBox.margin>
+               <font>
+                  <Font name="System Bold" size="19.0" />
+               </font>
+            </Label>
+            <TextFlow style="-fx-text-alignment: justify;" VBox.vgrow="ALWAYS">
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Segera manfaatkan Promo Spesial untuk Rumah Sakit &amp; Klinik! Dapatkan berbagai penawaran eksklusif dan diskon menarik untuk perlengkapan medis dan layanan kesehatan berkualitas tinggi. Pastikan Anda tidak melewatkan kesempatan ini untuk memenuhi kebutuhan medis dengan harga terbaik. Promo ini hanya berlaku untuk waktu terbatas, jadi segera ambil langkah sekarang!" />
+               </children>
+               <VBox.margin>
+                  <Insets left="30.0" right="20.0" />
+               </VBox.margin>
+            </TextFlow>
+            <HBox alignment="BOTTOM_CENTER" prefHeight="148.0" prefWidth="1088.0" spacing="10.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="5.0" prefWidth="80.0" style="-fx-background-color: #C3D9F6;" styleClass="buttonCarousel" />
+                  <Button mnemonicParsing="false" prefHeight="5.0" prefWidth="80.0" style="-fx-background-color: #C3D9F6;" styleClass="buttonCarousel" />
+                  <Button mnemonicParsing="false" prefHeight="5.0" prefWidth="80.0" style="-fx-background-color: #C3D9F6;" styleClass="buttonCarousel" />
+               </children>
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </HBox>
+         </children>
+         <BorderPane.margin>
+            <Insets left="20.0" right="20.0" />
+         </BorderPane.margin>
+      </VBox>
+   </center>
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+   <right>
+      <VBox alignment="TOP_CENTER" prefHeight="651.0" prefWidth="280.0" style="-fx-background-color: #FFFF;" styleClass="mainContainer" stylesheets="@style.css" BorderPane.alignment="CENTER">
+         <children>
+            <VBox VBox.vgrow="ALWAYS">
+               <children>
+                  <Label alignment="CENTER" prefHeight="70.0" prefWidth="307.0" style="-fx-background-color: #163D82;" styleClass="subHeader" text="Profile Rumah Sakit" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="17.0" />
+                     </font>
+                  </Label>
+                  <Label text="Visi" textFill="#163d82">
+                     <font>
+                        <Font name="System Bold" size="21.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="15.0" right="15.0" top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type " textAlignment="JUSTIFY" wrappingWidth="249.275390625" VBox.vgrow="ALWAYS">
+                     <font>
+                        <Font size="12.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+                     </VBox.margin>
+                  </Text>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </right>
+</BorderPane>

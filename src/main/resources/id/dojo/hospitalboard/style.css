@@ -1,0 +1,38 @@
+
+.mainContainer {
+    -fx-border-width: 2px;    /* Menentukan ketebalan border */
+    -fx-border-radius: 15px;  /* Membuat sudut border menjadi melengkung */
+    -fx-background-radius: 15px;
+    -fx-background-color: lightgray; }
+
+.subHeader {
+    -fx-border-width: 2px;              /* Menentukan ketebalan border */
+    -fx-border-radius: 15px 15px 0px 0px; /* Radius border: sudut atas bulat, bawah tajam */
+    -fx-background-color: lightgray;    /* Tambahkan warna latar belakang */
+    -fx-background-radius: 15px 15px 0px 0px; /* Membuat radius latar belakang cocok dengan border */
+}
+
+.buttonCarousel{
+    -fx-border-radius: 60px;  /* Membuat sudut border menjadi melengkung */
+    -fx-background-radius: 60px;
+}
+
+.detailKamar {
+    -fx-border-radius: 15px 15px 15px 15px; /* Radius border: sudut atas bulat, bawah tajam */
+    -fx-background-radius: 15px 15px 15px 15px; /* Membuat radius latar belakang cocok dengan border */
+}
+
+.kelasHeader{
+    -fx-border-radius: 15px 15px 0px 0px; /* Radius border: sudut atas bulat, bawah tajam */
+    -fx-background-radius: 15px 15px 0px 0px; /* Membuat radius latar belakang cocok dengan border */
+}
+
+.kelasSubhead1 {
+    -fx-border-radius: 0px 0px 0px 15px; /* Radius border: sudut atas bulat, bawah tajam */
+    -fx-background-radius: 0px 0px 0px 15px; /* Membuat radius latar belakang cocok dengan border */
+}
+
+.kelasSubhead2 {
+    -fx-border-radius: 0px 0px 15px 0px; /* Radius border: sudut atas bulat, bawah tajam */
+    -fx-background-radius: 0px 0px 15px 0px; /* Membuat radius latar belakang cocok dengan border */
+}

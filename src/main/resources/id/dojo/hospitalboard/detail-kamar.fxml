@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<VBox fx:id="heroDetailKamar" prefHeight="464.0" prefWidth="926.0" style="-fx-background-color: #FFFF;" styleClass="mainContainer" stylesheets="@style.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="id.dojo.hospitalboard.DetailKamarController">
+   <effect>
+      <DropShadow spread="0.08">
+         <color>
+            <Color red="0.3684210479259491" green="0.34454190731048584" blue="0.34454190731048584" />
+         </color>
+      </DropShadow>
+   </effect>
+   <children>
+      <VBox alignment="TOP_CENTER" prefHeight="720.0" prefWidth="1298.0" spacing="20.0" VBox.vgrow="ALWAYS">
+         <children>
+            <Label text="Detail Kamar Tersedia" VBox.vgrow="ALWAYS">
+               <font>
+                  <Font name="System Bold" size="42.0" />
+               </font>
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </Label>
+            <HBox alignment="CENTER" prefHeight="136.0" prefWidth="946.0" spacing="30.0">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+               <children>
+                  <VBox prefHeight="164.0" prefWidth="198.0" styleClass="detailKamar">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="268.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasHeader">
+                           <children>
+                              <Label contentDisplay="CENTER" text="Kelas I" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="17.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="140.0" prefWidth="386.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="80.0" prefWidth="100.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasSubhead1">
+                                 <children>
+                                    <Label text="Tersedia" textFill="WHITE">
+                                       <font>
+                                          <Font size="15.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets top="5.0" />
+                                       </VBox.margin>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="28.0" text="5" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="116.0" prefWidth="99.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #ffff;" styleClass="kelasSubhead2">
+                                 <children>
+                                    <Label text="Kapasitas" textFill="WHITE">
+                                       <font>
+                                          <Font size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="62.0" text="10" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" offsetY="3.0" spread="0.07">
+                           <color>
+                              <Color red="0.6184210777282715" green="0.5783382058143616" blue="0.5783382058143616" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </VBox>
+                  <VBox prefHeight="164.0" prefWidth="198.0" styleClass="detailKamar">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="268.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasHeader">
+                           <children>
+                              <Label contentDisplay="CENTER" text="Kelas I" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="17.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="140.0" prefWidth="386.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="80.0" prefWidth="100.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasSubhead1">
+                                 <children>
+                                    <Label text="Tersedia" textFill="WHITE">
+                                       <font>
+                                          <Font size="15.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets top="5.0" />
+                                       </VBox.margin>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="28.0" text="5" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="116.0" prefWidth="99.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #ffff;" styleClass="kelasSubhead2">
+                                 <children>
+                                    <Label text="Kapasitas" textFill="WHITE">
+                                       <font>
+                                          <Font size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="62.0" text="10" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" offsetY="3.0" spread="0.07">
+                           <color>
+                              <Color red="0.6184210777282715" green="0.5783382058143616" blue="0.5783382058143616" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </VBox>
+                  <VBox prefHeight="164.0" prefWidth="198.0" styleClass="detailKamar">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="268.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasHeader">
+                           <children>
+                              <Label contentDisplay="CENTER" text="Kelas I" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="17.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="140.0" prefWidth="386.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="80.0" prefWidth="100.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasSubhead1">
+                                 <children>
+                                    <Label text="Tersedia" textFill="WHITE">
+                                       <font>
+                                          <Font size="15.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets top="5.0" />
+                                       </VBox.margin>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="28.0" text="5" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="116.0" prefWidth="99.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #ffff;" styleClass="kelasSubhead2">
+                                 <children>
+                                    <Label text="Kapasitas" textFill="WHITE">
+                                       <font>
+                                          <Font size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="62.0" text="10" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" offsetY="3.0" spread="0.07">
+                           <color>
+                              <Color red="0.6184210777282715" green="0.5783382058143616" blue="0.5783382058143616" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="136.0" prefWidth="954.0" spacing="30.0">
+               <children>
+                  <VBox prefHeight="164.0" prefWidth="198.0" styleClass="detailKamar">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="268.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasHeader">
+                           <children>
+                              <Label contentDisplay="CENTER" text="Kelas I" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="17.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="140.0" prefWidth="386.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="80.0" prefWidth="100.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasSubhead1">
+                                 <children>
+                                    <Label text="Tersedia" textFill="WHITE">
+                                       <font>
+                                          <Font size="15.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets top="5.0" />
+                                       </VBox.margin>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="28.0" text="5" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="116.0" prefWidth="99.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #ffff;" styleClass="kelasSubhead2">
+                                 <children>
+                                    <Label text="Kapasitas" textFill="WHITE">
+                                       <font>
+                                          <Font size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="62.0" text="10" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" offsetY="3.0" spread="0.07">
+                           <color>
+                              <Color red="0.6184210777282715" green="0.5783382058143616" blue="0.5783382058143616" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </VBox>
+                  <VBox prefHeight="164.0" prefWidth="198.0" styleClass="detailKamar">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="268.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasHeader">
+                           <children>
+                              <Label contentDisplay="CENTER" text="Kelas I" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="17.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="140.0" prefWidth="386.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="80.0" prefWidth="100.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasSubhead1">
+                                 <children>
+                                    <Label text="Tersedia" textFill="WHITE">
+                                       <font>
+                                          <Font size="15.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets top="5.0" />
+                                       </VBox.margin>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="28.0" text="5" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="116.0" prefWidth="99.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #ffff;" styleClass="kelasSubhead2">
+                                 <children>
+                                    <Label text="Kapasitas" textFill="WHITE">
+                                       <font>
+                                          <Font size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="62.0" text="10" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" offsetY="3.0" spread="0.07">
+                           <color>
+                              <Color red="0.6184210777282715" green="0.5783382058143616" blue="0.5783382058143616" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </VBox>
+                  <VBox prefHeight="164.0" prefWidth="198.0" styleClass="detailKamar">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="268.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasHeader">
+                           <children>
+                              <Label contentDisplay="CENTER" text="Kelas I" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="17.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="140.0" prefWidth="386.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="80.0" prefWidth="100.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #FFFF;" styleClass="kelasSubhead1">
+                                 <children>
+                                    <Label text="Tersedia" textFill="WHITE">
+                                       <font>
+                                          <Font size="15.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets top="5.0" />
+                                       </VBox.margin>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="28.0" text="5" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="116.0" prefWidth="99.0" style="-fx-background-color: #1EA8E0; -fx-border-color: #ffff;" styleClass="kelasSubhead2">
+                                 <children>
+                                    <Label text="Kapasitas" textFill="WHITE">
+                                       <font>
+                                          <Font size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label prefHeight="75.0" prefWidth="62.0" text="10" textFill="WHITE">
+                                       <font>
+                                          <Font name="System Bold" size="52.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" offsetY="3.0" spread="0.07">
+                           <color>
+                              <Color red="0.6184210777282715" green="0.5783382058143616" blue="0.5783382058143616" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+         <VBox.margin>
+            <Insets top="50.0" />
+         </VBox.margin>
+      </VBox>
+   </children>
+</VBox>
